@@ -11,6 +11,7 @@
 body
 {
     background-color: rgb(0, 0, 43);
+    height: 100%;
 }
 
 header
@@ -41,6 +42,17 @@ header > div > div > button:hover
     
 }
 
+button#inic
+{
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+button#inic:hover
+{
+    background-color: transparent;
+}
+
 .cabeca
 {
     display: flex;
@@ -65,4 +77,9 @@ main
 a
 {
     text-decoration: none;
+}
+
+#res
+{
+    padding: 5px;
 }

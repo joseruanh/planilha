@@ -1,3 +1,7 @@
+function carregar() {
+    location.reload()
+}
+
 function jogos () {
 
     let content = window.document.getElementById("res");
@@ -9,7 +13,28 @@ function jogos () {
             <br>
     <p><strong>Rodada 1</strong></p>
     <br>
-    <p>Tô fazendo</p>
+    
+    <table id="tbRodada1">
+			<tr>
+				<td> <img class="imgLogo" src="../images/logos/lll.png"> </td><td>x</td><td> <img class="imgLogo" src="../images/logos/fur.png"> </td>
+			</tr>
+
+			<tr>
+				<td> <img class="imgLogo" src="../images/logos/net.png"> </td><td>x</td><td> <img class="imgLogo" src="../images/logos/fla.png"> </td>
+			</tr>
+
+			<tr>
+				<td> <img class="imgLogo" src="../images/logos/kbm.png"> </td><td>x</td><td> <img class="imgLogo" src="../images/logos/itz.png"> </td>
+			</tr>
+
+			<tr>
+				<td> <img class="imgLogo" src="../images/logos/png.png"> </td><td>x</td><td> <img class="imgLogo" src="../images/logos/lib.png"> </td>
+			</tr>
+
+			<tr>
+				<td> <img class="imgLogo" src="../images/logos/rng.png"> </td><td>x</td><td> <img class="imgLogo" src="../images/logos/red.png"> </td>
+			</tr>			
+		</table>
     
     `
 }
