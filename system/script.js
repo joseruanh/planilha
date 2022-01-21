@@ -18,7 +18,7 @@ function jogos () {
     
     <table id="tbRodada1">
 			<tr>
-				<td> <img class="imgLogo" src="../logos/lll.png"> </td><td>x</td><td> <img class="imgLogo" src="../logos/fur.png"> </td>
+				<td> <img class="imgLogo" src="logos/lll.png"> </td><td>x</td><td> <img class="imgLogo" src="logos/fur.png"> </td>
 			</tr>
 
 			<tr>
@@ -26,15 +26,15 @@ function jogos () {
 			</tr>
 
 			<tr>
-				<td> <img class="imgLogo" src="../logos/kbm.png"> </td><td>x</td><td> <img class="imgLogo" src="../logos/itz.png"> </td>
+				<td> <img class="imgLogo" src="logos/kbm.png"> </td><td>x</td><td> <img class="imgLogo" src="logos/itz.png"> </td>
 			</tr>
 
 			<tr>
-				<td> <img class="imgLogo" src="../logos/png.png"> </td><td>x</td><td> <img class="imgLogo" src="../logos/lib.png"> </td>
+				<td> <img class="imgLogo" src="logos/png.png"> </td><td>x</td><td> <img class="imgLogo" src="logos/lib.png"> </td>
 			</tr>
 
 			<tr>
-				<td> <img class="imgLogo" src="../logos/rng.png"> </td><td>x</td><td> <img class="imgLogo" src="../logos/red.png"> </td>
+				<td> <img class="imgLogo" src="logos/rng.png"> </td><td>x</td><td> <img class="imgLogo" src="logos/red.png"> </td>
 			</tr>			
 		</table>
 
