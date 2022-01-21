@@ -1,8 +1,10 @@
 function carregar() {
+    window.scroll(0, 0);
     location.reload()
 }
 
 function jogos () {
+    window.scroll(0, 0);
 
     let content = window.document.getElementById("res");
 
@@ -35,11 +37,14 @@ function jogos () {
 				<td> <img class="imgLogo" src="../images/logos/rng.png"> </td><td>x</td><td> <img class="imgLogo" src="../images/logos/red.png"> </td>
 			</tr>			
 		</table>
+
+        
     
     `
 }
 
 function pontos () {
+    window.scroll(0, 0);
     let content = window.document.getElementById("res");
 
     content.innerHTML = `
@@ -51,6 +56,7 @@ function pontos () {
 }
 
 function classificacao () {
+    window.scroll(0, 0);
     let content = window.document.getElementById("res");
 
     content.innerHTML = `

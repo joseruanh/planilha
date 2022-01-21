@@ -16,9 +16,11 @@ body
 
 header
 {
-    max-width: 100%;
+    width: 100%;
     background-color: rgba(0, 0, 0, 0.434);
     padding: 10px;
+
+    position: fixed;
 }
 
 header > div > div > h3, p
@@ -53,6 +55,11 @@ button#inic:hover
     background-color: transparent;
 }
 
+.botoesHeader
+{
+    margin-right: 20px;
+}
+
 .cabeca
 {
     display: flex;
@@ -64,7 +71,8 @@ button#inic:hover
 
 main
 {
-    margin:  1px auto;
+    padding-top: 60px;
+    margin: auto;
     max-width: 800px;
     text-align: center;
 }
@@ -82,4 +90,15 @@ a
 #res
 {
     padding: 5px;
+}
+
+footer
+{
+    width: 100%;
+    font-size: 13px;
+    padding: 20px 0px;
+    background-color: rgba(0, 0, 0, 0.434);
+    text-align: center;
+    position: absolute;
+    top: 100%;
 }
