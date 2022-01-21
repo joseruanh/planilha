@@ -18,23 +18,23 @@ function jogos () {
     
     <table id="tbRodada1">
 			<tr>
-				<td> <img class="imgLogo" src="../images/logos/lll.png"> </td><td>x</td><td> <img class="imgLogo" src="../images/logos/fur.png"> </td>
+				<td> <img class="imgLogo" src="../logos/lll.png"> </td><td>x</td><td> <img class="imgLogo" src="../logos/fur.png"> </td>
 			</tr>
 
 			<tr>
-				<td> <img class="imgLogo" src="../images/logos/net.png"> </td><td>x</td><td> <img class="imgLogo" src="../images/logos/fla.png"> </td>
+				<td> <img class="imgLogo" src="../logos/net.png"> </td><td>x</td><td> <img class="imgLogo" src="../logos/fla.png"> </td>
 			</tr>
 
 			<tr>
-				<td> <img class="imgLogo" src="../images/logos/kbm.png"> </td><td>x</td><td> <img class="imgLogo" src="../images/logos/itz.png"> </td>
+				<td> <img class="imgLogo" src="../logos/kbm.png"> </td><td>x</td><td> <img class="imgLogo" src="../logos/itz.png"> </td>
 			</tr>
 
 			<tr>
-				<td> <img class="imgLogo" src="../images/logos/png.png"> </td><td>x</td><td> <img class="imgLogo" src="../images/logos/lib.png"> </td>
+				<td> <img class="imgLogo" src="../logos/png.png"> </td><td>x</td><td> <img class="imgLogo" src="../logos/lib.png"> </td>
 			</tr>
 
 			<tr>
-				<td> <img class="imgLogo" src="../images/logos/rng.png"> </td><td>x</td><td> <img class="imgLogo" src="../images/logos/red.png"> </td>
+				<td> <img class="imgLogo" src="../logos/rng.png"> </td><td>x</td><td> <img class="imgLogo" src="../logos/red.png"> </td>
 			</tr>			
 		</table>
 
