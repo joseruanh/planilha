@@ -59,27 +59,27 @@ function pontos () {
 
             <table id="planilha">
 			<tr>
-				<td> <strong> Pickles </strong> </td><td>jogo1</td><td>jogo 2</td><td>jogo 3</td><td>jogo 4</td><td>jogo 5</td><td> <strong> 0 pontos </strong> </td>
+				<td> <strong> Pickles </strong> </td><td>jogo1</td><td>jogo2</td><td>jogo3</td><td>jogo4</td><td>jogo5</td><td> <strong> 0 pontos </strong> </td>
 			</tr>
 
 			<tr>
-				<td> <strong> Ruanh </strong> </td><td>jogo1</td><td>jogo 2</td><td>jogo 3</td><td>jogo 4</td><td>jogo 5</td><td> <strong> 0 pontos </strong> </td>
+				<td> <strong> Ruanh </strong> </td><td>jogo1</td><td>jogo2</td><td>jogo3</td><td>jogo4</td><td>jogo5</td><td> <strong> 0 pontos </strong> </td>
 			</tr>
 
 			<tr>
-				<td> <strong> Relâmpago </strong> </td><td>jogo1</td><td>jogo 2</td><td>jogo 3</td><td>jogo 4</td><td>jogo 5</td><td> <strong> 0 pontos </strong> </td>
+				<td> <strong> Relâmpago </strong> </td><td>jogo1</td><td>jogo2</td><td>jogo3</td><td>jogo4</td><td>jogo5</td><td> <strong> 0 pontos </strong> </td>
 			</tr>
 
 			<tr>
-				<td> <strong> Victor </strong> </td><td>jogo1</td><td>jogo 2</td><td>jogo 3</td><td>jogo 4</td><td>jogo 5</td><td> <strong> 0 pontos </strong> </td>
+				<td> <strong> Victor </strong> </td><td>jogo1</td><td>jogo2</td><td>jogo3</td><td>jogo4</td><td>jogo5</td><td> <strong> 0 pontos </strong> </td>
 			</tr>
 
 			<tr>
-				<td> <strong> Jean </strong> </td><td>jogo1</td><td>jogo 2</td><td>jogo 3</td><td>jogo 4</td><td>jogo 5</td><td> <strong> 0 pontos </strong> </td>
+				<td> <strong> Jean </strong> </td><td>jogo1</td><td>jogo2</td><td>jogo3</td><td>jogo4</td><td>jogo5</td><td> <strong> 0 pontos </strong> </td>
 			</tr>
 
 			<tr>
-				<td> <strong> Brener </strong> </td><td>jogo1</td><td>jogo 2</td><td>jogo 3</td><td>jogo 4</td><td>jogo 5</td><td> <strong> 0 pontos </strong> </td>
+				<td> <strong> Brener </strong> </td><td>jogo1</td><td>jogo2</td><td>jogo3</td><td>jogo4</td><td>jogo5</td><td> <strong> 0 pontos </strong> </td>
 			</tr>
 		</table>
     `

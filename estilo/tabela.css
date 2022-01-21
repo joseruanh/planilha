@@ -4,6 +4,7 @@ table.resultados
     width: 100%;
     height: 200px;
     border-collapse: collapse;
+
 }
 
 td{
@@ -24,4 +25,5 @@ table#planilha
     width: 100%;
     height: 200px;
     border-collapse: collapse;
+    font-size: 14px;
 }
