@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+}
+
+body
+{
+    background-color: rgb(0, 0, 43);
+}
+
+header
+{
+    max-width: 100%;
+    background-color: rgba(0, 0, 0, 0.434);
+    padding: 10px;
+}
+
+header > div > div > h3, p
+{
+    color: white;
+}
+
+header > div > div > button
+{
+    padding: 10px;
+    cursor: pointer;
+    color: white;
+    background-color: transparent;
+    border: none;
+    transition: 0.3s;
+}
+
+header > div > div > button:hover
+{
+    background-color: rgba(255, 255, 255, 0.338);
+    
+}
+
+.cabeca
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    position: relative;
+}
+
+main
+{
+    margin:  1px auto;
+    max-width: 800px;
+    text-align: center;
+}
+
+#cblogo
+{
+    max-width: 150px;
+}
+
+a
+{
+    text-decoration: none;
+}
