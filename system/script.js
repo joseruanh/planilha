@@ -22,7 +22,7 @@ function jogos () {
 			</tr>
 
 			<tr>
-				<td> <img class="imgLogo" src="../logos/net.png"> </td><td>x</td><td> <img class="imgLogo" src="../logos/fla.png"> </td>
+				<td> <img class="imgLogo" src="logos/net.png"> </td><td>x</td><td> <img class="imgLogo" src="logos/fla.png"> </td>
 			</tr>
 
 			<tr>
