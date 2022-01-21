@@ -1,4 +1,4 @@
-table
+table.resultados
 {
     
     width: 100%;
@@ -15,5 +15,13 @@ td{
 
 img.imgLogo
 {
-    width: 60px;
+    width: 40px;
+}
+
+table#planilha
+{
+    
+    width: 100%;
+    height: 200px;
+    border-collapse: collapse;
 }

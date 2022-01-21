@@ -16,7 +16,7 @@ function jogos () {
     <p><strong>Rodada 1</strong></p>
     <br>
     
-    <table id="tbRodada1">
+    <table id="tbRodada1" class="resultados">
 			<tr>
 				<td> <img class="imgLogo" src="logos/lll.png"> </td><td>x</td><td> <img class="imgLogo" src="logos/fur.png"> </td>
 			</tr>
@@ -51,7 +51,37 @@ function pontos () {
     
     <img id="cblogo" src="images/img01.png" alt="CBLOL">
             <br>
-            <p>Testando Pontos</p>
+            <p><strong>Votos e Pontos por rodada</strong></p>
+            <br>
+            <br>
+            <p><strong>RODADA 1</strong></p>
+            <br>
+
+            <table id="planilha">
+			<tr>
+				<td> <strong> Pickles </strong> </td><td>jogo1</td><td>jogo 2</td><td>jogo 3</td><td>jogo 4</td><td>jogo 5</td><td> <strong> 0 pontos </strong> </td>
+			</tr>
+
+			<tr>
+				<td> <strong> Ruanh </strong> </td><td>jogo1</td><td>jogo 2</td><td>jogo 3</td><td>jogo 4</td><td>jogo 5</td><td> <strong> 0 pontos </strong> </td>
+			</tr>
+
+			<tr>
+				<td> <strong> Relâmpago </strong> </td><td>jogo1</td><td>jogo 2</td><td>jogo 3</td><td>jogo 4</td><td>jogo 5</td><td> <strong> 0 pontos </strong> </td>
+			</tr>
+
+			<tr>
+				<td> <strong> Victor </strong> </td><td>jogo1</td><td>jogo 2</td><td>jogo 3</td><td>jogo 4</td><td>jogo 5</td><td> <strong> 0 pontos </strong> </td>
+			</tr>
+
+			<tr>
+				<td> <strong> Jean </strong> </td><td>jogo1</td><td>jogo 2</td><td>jogo 3</td><td>jogo 4</td><td>jogo 5</td><td> <strong> 0 pontos </strong> </td>
+			</tr>
+
+			<tr>
+				<td> <strong> Brener </strong> </td><td>jogo1</td><td>jogo 2</td><td>jogo 3</td><td>jogo 4</td><td>jogo 5</td><td> <strong> 0 pontos </strong> </td>
+			</tr>
+		</table>
     `
 }
 
