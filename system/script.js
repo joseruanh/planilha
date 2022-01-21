@@ -9,13 +9,7 @@ function jogos () {
             <br>
     <p><strong>Rodada 1</strong></p>
     <br>
-    <pre>
-    LLL x FUR
-    NET x FLA
-    KBM x ITZ
-    PNG x LIB
-    RNG x RED
-    </pre>
+    <p>Tô fazendo</p>
     
     `
 }
