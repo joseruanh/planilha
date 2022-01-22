@@ -1,4 +1,4 @@
-table.resultados
+table.resultados, table.tabelaBOLAO
 {
     
     width: 100%;
@@ -55,11 +55,5 @@ button.butTabelas:hover
     color: rgb(0, 0, 43);
 }
 
-button.butTabelas:active
-{
-    background-color: white;
-    color: rgb(0, 0, 43);
-}
-
-td#win{color: green;}
-td#loss{color: red;}
+td#win{color: rgb(0, 96, 0);}
+td#loss{color: rgb(176, 0, 0);}

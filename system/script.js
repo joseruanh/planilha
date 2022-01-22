@@ -175,7 +175,41 @@ function bolao(){
             <br>
             <button class="butTabelas" onclick="classificacao()">CBLOL</button> <button class="butTabelas" onclick="bolao()">BOLÃO</button>
 
-            <p><strong>Em Breve</strong></p>
+            <br>
+			<table class="tabelaBOLAO">
+			<tr>
+				<td><h1>1</h1></td> <td>Pickles</td> <td>Pontos</td>
+			</tr>
+
+			<tr>
+				<td><h1>1</h1></td> <td>Ruanh</td> <td>Pontos</td>
+			</tr>
+
+			<tr>
+				<td><h1>1</h1></td> <td>Relâmpago</td> <td>Pontos</td>
+			</tr>
+
+			<tr>
+				<td><h1>1</h1></td> <td>Victor</td> <td>Pontos</td>
+			</tr>
+
+			<tr>
+				<td><h1>1</h1></td> <td>Jean</td> <td>Pontos</td>
+			</tr>
+
+			<tr>
+				<td><h1>1</h1></td> <td>Brener</td> <td>Pontos</td>
+			</tr>
+
+			<tr>
+				<td><h1>1</h1></td> <td>Tony</td> <td>Pontos</td>
+			</tr>
+
+			<tr>
+				<td><h1>1</h1></td> <td>Kennyd</td> <td>Pontos</td>
+			</tr>
+
+		</table>
 
             `
 
