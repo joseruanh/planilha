@@ -119,7 +119,7 @@ function classificacao () {
             	</tr>
 
             	<tr>
-            		<td> <h1>1</h1> </td> <td> <img class="imgLogo1" src="logos/net.png"> </td> <td>0v - 0d</td>
+            		<td> <h1>1</h1> </td> <td> <img class="imgLogo1" src="logos/kbm.png"> </td> <td>0v - 0d</td>
             	</tr>
 
             	<tr>
