@@ -79,7 +79,7 @@ function pontos () {
 			</tr>
 
 			<tr>
-				<td> <strong> Brener </strong> </td><td>jogo1</td><td>jogo2</td><td>jogo3</td><td>jogo4</td><td>jogo5</td><td> <strong> 0 pontos </strong> </td>
+				<td> <strong> Brener </strong> </td><td>LLL</td><td>FLA</td><td>KBM</td><td>PNG</td><td>RED</td><td> <strong> 0 pontos </strong> </td>
 			</tr>
 		</table>
     `
