@@ -38,6 +38,32 @@ function jogos () {
 			</tr>			
 		</table>
 
+			<br><br><br>
+
+			<p><strong>Rodada 2</strong></p>
+    <br>
+    
+    <table id="tbRodada1" class="resultados">
+			<tr>
+				<td> <img class="imgLogo" src="logos/png.png"> </td><td>x</td><td> <img class="imgLogo" src="logos/kbm.png"> </td>
+			</tr>
+
+			<tr>
+				<td> <img class="imgLogo" src="logos/lib.png"> </td><td>x</td><td> <img class="imgLogo" src="logos/rng.png"> </td>
+			</tr>
+
+			<tr>
+				<td> <img class="imgLogo" src="logos/red.png"> </td><td>x</td><td> <img class="imgLogo" src="logos/lll.png"> </td>
+			</tr>
+
+			<tr>
+				<td> <img class="imgLogo" src="logos/itz.png"> </td><td>x</td><td> <img class="imgLogo" src="logos/net.png"> </td>
+			</tr>
+
+			<tr>
+				<td> <img class="imgLogo" src="logos/fla.png"> </td><td>x</td><td> <img class="imgLogo" src="logos/fur.png"> </td>
+			</tr>			
+		</table>
         
     
     `
@@ -82,6 +108,11 @@ function pontos () {
 				<td> <strong> Brener </strong> </td><td>LLL</td><td>FLA</td><td>KBM</td><td>PNG</td><td>RED</td><td> <strong> 0 pontos </strong> </td>
 			</tr>
 		</table>
+
+
+
+
+
     `
 }
 
