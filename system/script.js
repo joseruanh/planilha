@@ -112,6 +112,38 @@ function pontos () {
 		</table>
 
 
+        <br><br><br>
+
+        <p><strong>RODADA 2</strong></p>
+            <br>
+
+            <table id="planilha">
+            <tr>
+                <td> <strong> Pickles </strong> </td><td>jogo1</td><td>jogo2</td><td>jogo3</td><td>jogo4</td><td>jogo5</td><td> <strong> 0 pontos </strong> </td>
+            </tr>
+
+            <tr>
+                <td> <strong> Ruanh </strong> </td><td>jogo1</td><td>jogo2</td><td>jogo3</td><td>jogo4</td><td>jogo5</td><td> <strong> 0 pontos </strong> </td>
+            </tr>
+
+            <tr>
+                <td> <strong> Relâmpago </strong> </td><td>jogo1</td><td>jogo2</td><td>jogo3</td><td>jogo4</td><td>jogo5</td><td> <strong> 0 pontos </strong> </td>
+            </tr>
+
+            <tr>
+                <td> <strong> Victor </strong> </td><td>jogo1</td><td>jogo2</td><td>jogo3</td><td>jogo4</td><td>jogo5</td><td> <strong> 0 pontos </strong> </td>
+            </tr>
+
+            <tr>
+                <td> <strong> Jean </strong> </td><td>jogo1</td><td>jogo2</td><td>jogo3</td><td>jogo4</td><td>jogo5</td><td> <strong> 0 pontos </strong> </td>
+            </tr>
+
+            <tr>
+                <td> <strong> Brener </strong> </td><td>jogo1</td><td>jogo2</td><td>jogo3</td><td>jogo4</td><td>jogo5</td><td> <strong> 0 pontos </strong> </td>
+            </tr>
+        </table>
+
+
 
 
 
