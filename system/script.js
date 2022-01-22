@@ -109,6 +109,12 @@ function pontos () {
 			<tr>
 				<td> <strong> Brener </strong> </td><td>LLL</td><td>FLA</td><td>KBM</td><td>PNG</td><td>RED</td><td> <strong> 0 pontos </strong> </td>
 			</tr>
+            <tr>
+                <td> <strong> Tony </strong> </td><td>LLL</td><td>FLA</td><td>ITZ</td><td>PNG</td><td>RED</td><td> <strong> 0 pontos </strong> </td>
+            </tr>
+            <tr>
+                <td> <strong> Kennyd </strong> </td><td>LLL</td><td>FLA</td><td>ITZ</td><td>PNG</td><td>RED</td><td> <strong> 0 pontos </strong> </td>
+            </tr>
 		</table>
 
 
@@ -141,6 +147,12 @@ function pontos () {
             <tr>
                 <td> <strong> Brener </strong> </td><td>jogo1</td><td>jogo2</td><td>jogo3</td><td>jogo4</td><td>jogo5</td><td> <strong> 0 pontos </strong> </td>
             </tr>
+            <tr>
+                <td> <strong> Tony </strong> </td><td>jogo1</td><td>jogo2</td><td>jogo3</td><td>jogo4</td><td>jogo5</td><td> <strong> 0 pontos </strong> </td>
+            </tr>
+            <tr>
+                <td> <strong> Kennyd </strong> </td><td>jogo1</td><td>jogo2</td><td>jogo3</td><td>jogo4</td><td>jogo5</td><td> <strong> 0 pontos </strong> </td>
+            </tr>
         </table>
 
 
@@ -148,6 +160,26 @@ function pontos () {
 
 
     `
+}
+
+
+function bolao(){
+    window.scroll(0, 0);
+    let content = window.document.getElementById("res");
+
+    content.innerHTML = `
+    
+    <img id="cblogo" src="images/img01.png" alt="CBLOL">
+            <br>
+            <p>Classificação</p>
+            <br>
+            <button class="butTabelas" onclick="classificacao()">CBLOL</button> <button class="butTabelas" onclick="bolao()">BOLÃO</button>
+
+            <p><strong>Em Breve</strong></p>
+
+            `
+
+
 }
 
 function classificacao () {
@@ -158,8 +190,9 @@ function classificacao () {
     
     <img id="cblogo" src="images/img01.png" alt="CBLOL">
             <br>
-            <p>Classificação CBLOL</p>
+            <p>Classificação</p>
             <br>
+            <button class="butTabelas" onclick="classificacao()">CBLOL</button> <button class="butTabelas" onclick="bolao()">BOLÃO</button>
 
             	<table class="classificacao">
 

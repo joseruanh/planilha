@@ -33,3 +33,27 @@ table#planilha
     font-size: 12px;
     color: grey;
 }
+
+button.butTabelas
+{
+    width: 200px;
+    padding: 7px;
+    background-color: transparent;
+    border:none;
+    cursor: pointer;
+    box-shadow: 0px 2px 0px white;
+    margin:0px 3px 30px 3px;
+    transition: 0.3s;
+    font-size: 18px;
+    font-weight: bolder;
+
+}
+
+button.butTabelas:hover
+{
+    background-color: white;
+    color: rgb(0, 0, 43);
+}
+
+td#win{color: green;}
+td#loss{color: red;}
