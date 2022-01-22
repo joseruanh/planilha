@@ -14,6 +14,7 @@ function jogos () {
             <br>
             <br>
     <p><strong>Rodada 1</strong></p>
+    <p class="pData">22/01</p>
     <br>
     
     <table id="tbRodada1" class="resultados">
@@ -41,6 +42,7 @@ function jogos () {
 			<br><br><br>
 
 			<p><strong>Rodada 2</strong></p>
+            <p class="pData">23/01</p>
     <br>
     
     <table id="tbRodada1" class="resultados">
