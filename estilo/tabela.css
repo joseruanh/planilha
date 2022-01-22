@@ -43,13 +43,19 @@ button.butTabelas
     cursor: pointer;
     box-shadow: 0px 2px 0px white;
     margin:0px 3px 30px 3px;
-    transition: 0.3s;
+    transition: 0.6s;
     font-size: 16px;
     font-weight: bolder;
 
 }
 
 button.butTabelas:hover
+{
+    background-color: white;
+    color: rgb(0, 0, 43);
+}
+
+button.butTabelas:active
 {
     background-color: white;
     color: rgb(0, 0, 43);
