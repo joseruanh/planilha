@@ -168,14 +168,14 @@ function bolao(){
     window.scroll(0, 0);
     let content = window.document.getElementById("res");
 
-    let ruanhPTS = 7;
-    let picklesPTS = 6;
-    let brenerPTS = 6;
-    let relampagoPTS = 5;
-    let kennydPTS = 5;
-    let jeanPTS = 5;
-    let tonyPTS = 4;
-    let victorPTS = 3;
+    let primeiro = {nome:'Ruanh', pontos: 7};
+    let segundo = {nome: 'Pickles', pontos: 6};
+    let terceiro = {nome: 'Brener', pontos: 6};
+    let quarto = {nome: 'Relâmpago', pontos: 5};
+    let quinto = {nome: 'Kennyd', pontos: 5};
+    let sexto = {nome: 'Jean', pontos: 5};
+    let setimo = {nome: 'Tony', pontos: 4};
+    let oitavo = {nome: 'Victor', pontos: 3};
 
     content.innerHTML = `
     
@@ -188,35 +188,35 @@ function bolao(){
             <br>
 			<table class="tabelaBOLAO">
 			<tr>
-				<td><h1>1</h1></td> <td>Ruanh</td> <td>${ruanhPTS} pontos</td>
+				<td><h1>1</h1></td> <td>${primeiro.nome}</td> <td>${primeiro.pontos} pontos</td>
 			</tr>
 
 			<tr>
-				<td><h1>2</h1></td> <td>Pickles</td> <td>${picklesPTS} pontos</td>
+				<td><h1>2</h1></td> <td>${segundo.nome}</td> <td>${segundo.pontos} pontos</td>
 			</tr>
 
 			<tr>
-				<td><h1>2</h1></td> <td>Brener</td> <td>${brenerPTS} pontos</td>
+				<td><h1>2</h1></td> <td>${terceiro.nome}</td> <td>${terceiro.pontos} pontos</td>
 			</tr>
 
 			<tr>
-				<td><h1>3</h1></td> <td>Relâmpago</td> <td>${relampagoPTS} pontos</td>
+				<td><h1>3</h1></td> <td>${quarto.nome}</td> <td>${quarto.pontos} pontos</td>
 			</tr>
 
             <tr>
-				<td><h1>3</h1></td> <td>Kennyd</td> <td>${kennydPTS} pontos</td>
+				<td><h1>3</h1></td> <td>${quinto.nome}</td> <td>${quinto.pontos} pontos</td>
 			</tr>
 
 			<tr>
-				<td><h1>3</h1></td> <td>Jean</td> <td>${jeanPTS} pontos</td>
+				<td><h1>3</h1></td> <td>${sexto.nome}</td> <td>${sexto.pontos} pontos</td>
 			</tr>
 
 			<tr>
-				<td><h1>4</h1></td> <td>Tony</td> <td>${tonyPTS} pontos</td>
+				<td><h1>4</h1></td> <td>${setimo.nome}</td> <td>${setimo.pontos} pontos</td>
 			</tr>
 
 			<tr>
-				<td><h1>5</h1></td> <td>Victor</td> <td>${victorPTS} pontos</td>
+				<td><h1>5</h1></td> <td>${oitavo.nome}</td> <td>${oitavo.pontos} pontos</td>
 			</tr>
 
 		</table>
