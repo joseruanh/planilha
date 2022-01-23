@@ -13,34 +13,6 @@ function jogos () {
     <img id="cblogo" src="images/img01.png" alt="CBLOL">
             <br>
             <br>
-    <p><strong>Rodada 1</strong></p>
-    <p class="pData">22/01</p>
-    <br>
-    
-    <table id="tbRodada1" class="resultados">
-			<tr>
-				<td> <img class="imgLogo" src="logos/lll.png"> </td><td>1 - 0</td><td> <img class="imgLogo" src="logos/fur.png"> </td>
-			</tr>
-
-			<tr>
-				<td> <img class="imgLogo" src="logos/net.png"> </td><td>1 - 0</td><td> <img class="imgLogo" src="logos/fla.png"> </td>
-			</tr>
-
-			<tr>
-				<td> <img class="imgLogo" src="logos/kbm.png"> </td><td>1 - 0</td><td> <img class="imgLogo" src="logos/itz.png"> </td>
-			</tr>
-
-			<tr>
-				<td> <img class="imgLogo" src="logos/png.png"> </td><td>x</td><td> <img class="imgLogo" src="logos/lib.png"> </td>
-			</tr>
-
-			<tr>
-				<td> <img class="imgLogo" src="logos/rng.png"> </td><td>0 - 1</td><td> <img class="imgLogo" src="logos/red.png"> </td>
-			</tr>			
-		</table>
-
-			<br><br><br>
-
 			<p><strong>Rodada 2</strong></p>
             <p class="pData">23/01</p>
     <br>
@@ -66,6 +38,34 @@ function jogos () {
 				<td> <img class="imgLogo" src="logos/fla.png"> </td><td>x</td><td> <img class="imgLogo" src="logos/fur.png"> </td>
 			</tr>			
 		</table>
+
+        <br><br><br>
+
+        <p><strong>Rodada 1</strong></p>
+    <p class="pData">22/01</p>
+    <br>
+    
+    <table id="tbRodada1" class="resultados">
+            <tr>
+                <td> <img class="imgLogo" src="logos/lll.png"> </td><td>1 - 0</td><td> <img class="imgLogo" src="logos/fur.png"> </td>
+            </tr>
+
+            <tr>
+                <td> <img class="imgLogo" src="logos/net.png"> </td><td>1 - 0</td><td> <img class="imgLogo" src="logos/fla.png"> </td>
+            </tr>
+
+            <tr>
+                <td> <img class="imgLogo" src="logos/kbm.png"> </td><td>1 - 0</td><td> <img class="imgLogo" src="logos/itz.png"> </td>
+            </tr>
+
+            <tr>
+                <td> <img class="imgLogo" src="logos/png.png"> </td><td>x</td><td> <img class="imgLogo" src="logos/lib.png"> </td>
+            </tr>
+
+            <tr>
+                <td> <img class="imgLogo" src="logos/rng.png"> </td><td>0 - 1</td><td> <img class="imgLogo" src="logos/red.png"> </td>
+            </tr>           
+        </table>
         
     
     `
@@ -82,44 +82,6 @@ function pontos () {
             <p><strong>Votos e Pontos por rodada</strong></p>
             <br>
             <br>
-            <p><strong>RODADA 1</strong></p>
-            <br>
-
-            <table id="planilha">
-			<tr>
-				<td> <strong> Pickles </strong> </td><td id="win">LLL</td><td id="loss">FLA</td><td id="win">KBM</td><td>PNG</td><td id="win">RED</td><td> <strong> 3 pontos </strong> </td>
-			</tr>
-
-			<tr>
-				<td> <strong> Ruanh </strong> </td><td id="win">LLL</td><td id="loss">FLA</td><td id="win">KBM</td><td>PNG</td><td id="win">RED</td><td> <strong> 3 pontos </strong> </td>
-			</tr>
-
-			<tr>
-				<td> <strong> Relâmpago </strong> </td><td id="win">LLL</td><td id="loss">FLA</td><td id="win">KBM</td><td>PNG</td><td id="win">RED</td><td> <strong> 3 pontos </strong> </td>
-			</tr>
-
-			<tr>
-				<td> <strong> Victor </strong> </td><td id="loss">FUR</td><td id="loss">FLA</td><td id="win">KBM</td><td>PNG</td><td id="loss">RNG</td><td> <strong> 1 ponto </strong> </td>
-			</tr>
-
-			<tr>
-				<td> <strong> Jean </strong> </td><td id="win">LLL</td><td id="loss">FLA</td><td id="loss">ITZ</td><td>PNG</td><td id="win">RED</td><td> <strong> 2 pontos </strong> </td>
-			</tr>
-
-			<tr>
-				<td> <strong> Brener </strong> </td><td id="win">LLL</td><td id="loss">FLA</td><td id="win">KBM</td><td>PNG</td><td id="win">RED</td><td> <strong> 3 pontos </strong> </td>
-			</tr>
-            <tr>
-                <td> <strong> Tony </strong> </td><td id="win">LLL</td><td id="loss">FLA</td><td id="loss">ITZ</td><td>PNG</td><td id="win">RED</td><td> <strong> 2 pontos </strong> </td>
-            </tr>
-            <tr>
-                <td> <strong> Kennyd </strong> </td><td id="win">LLL</td><td id="loss">FLA</td><td id="loss">ITZ</td><td>PNG</td><td id="win">RED</td><td> <strong> 2 pontos</strong> </td>
-            </tr>
-		</table>
-
-
-        <br><br><br>
-
         <p><strong>RODADA 2</strong></p>
             <br>
 
@@ -154,6 +116,45 @@ function pontos () {
                 <td> <strong> Kennyd </strong> </td><td>jogo1</td><td>jogo2</td><td>jogo3</td><td>jogo4</td><td>jogo5</td><td> <strong> 0 pontos </strong> </td>
             </tr>
         </table>
+
+        <br><br><br>
+
+        <p><strong>RODADA 1</strong></p>
+            <br>
+
+            <table id="planilha">
+            <tr>
+                <td> <strong> Pickles </strong> </td><td id="win">LLL</td><td id="loss">FLA</td><td id="win">KBM</td><td>PNG</td><td id="win">RED</td><td> <strong> 3 pontos </strong> </td>
+            </tr>
+
+            <tr>
+                <td> <strong> Ruanh </strong> </td><td id="win">LLL</td><td id="loss">FLA</td><td id="win">KBM</td><td>PNG</td><td id="win">RED</td><td> <strong> 3 pontos </strong> </td>
+            </tr>
+
+            <tr>
+                <td> <strong> Relâmpago </strong> </td><td id="win">LLL</td><td id="loss">FLA</td><td id="win">KBM</td><td>PNG</td><td id="win">RED</td><td> <strong> 3 pontos </strong> </td>
+            </tr>
+
+            <tr>
+                <td> <strong> Victor </strong> </td><td id="loss">FUR</td><td id="loss">FLA</td><td id="win">KBM</td><td>PNG</td><td id="loss">RNG</td><td> <strong> 1 ponto </strong> </td>
+            </tr>
+
+            <tr>
+                <td> <strong> Jean </strong> </td><td id="win">LLL</td><td id="loss">FLA</td><td id="loss">ITZ</td><td>PNG</td><td id="win">RED</td><td> <strong> 2 pontos </strong> </td>
+            </tr>
+
+            <tr>
+                <td> <strong> Brener </strong> </td><td id="win">LLL</td><td id="loss">FLA</td><td id="win">KBM</td><td>PNG</td><td id="win">RED</td><td> <strong> 3 pontos </strong> </td>
+            </tr>
+            <tr>
+                <td> <strong> Tony </strong> </td><td id="win">LLL</td><td id="loss">FLA</td><td id="loss">ITZ</td><td>PNG</td><td id="win">RED</td><td> <strong> 2 pontos </strong> </td>
+            </tr>
+            <tr>
+                <td> <strong> Kennyd </strong> </td><td id="win">LLL</td><td id="loss">FLA</td><td id="loss">ITZ</td><td>PNG</td><td id="win">RED</td><td> <strong> 2 pontos</strong> </td>
+            </tr>
+        </table>
+
+
 
 
 
