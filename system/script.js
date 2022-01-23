@@ -168,6 +168,15 @@ function bolao(){
     window.scroll(0, 0);
     let content = window.document.getElementById("res");
 
+    let ruanhPTS = 7;
+    let picklesPTS = 6;
+    let brenerPTS = 6;
+    let relampagoPTS = 5;
+    let kennydPTS = 5;
+    let jeanPTS = 5;
+    let tonyPTS = 4;
+    let victorPTS = 3;
+
     content.innerHTML = `
     
     <img id="cblogo" src="images/img01.png" alt="CBLOL">
@@ -179,35 +188,35 @@ function bolao(){
             <br>
 			<table class="tabelaBOLAO">
 			<tr>
-				<td><h1>1</h1></td> <td>Ruanh</td> <td>7 pontos</td>
+				<td><h1>1</h1></td> <td>Ruanh</td> <td>${ruanhPTS} pontos</td>
 			</tr>
 
 			<tr>
-				<td><h1>2</h1></td> <td>Pickles</td> <td>6 pontos</td>
+				<td><h1>2</h1></td> <td>Pickles</td> <td>${picklesPTS} pontos</td>
 			</tr>
 
 			<tr>
-				<td><h1>2</h1></td> <td>Brener</td> <td>6 pontos</td>
+				<td><h1>2</h1></td> <td>Brener</td> <td>${brenerPTS} pontos</td>
 			</tr>
 
 			<tr>
-				<td><h1>3</h1></td> <td>Relâmpago</td> <td>5 pontos</td>
+				<td><h1>3</h1></td> <td>Relâmpago</td> <td>${relampagoPTS} pontos</td>
 			</tr>
 
             <tr>
-				<td><h1>3</h1></td> <td>Kennyd</td> <td>5 pontos</td>
+				<td><h1>3</h1></td> <td>Kennyd</td> <td>${kennydPTS} pontos</td>
 			</tr>
 
 			<tr>
-				<td><h1>3</h1></td> <td>Jean</td> <td>5 pontos</td>
+				<td><h1>3</h1></td> <td>Jean</td> <td>${jeanPTS} pontos</td>
 			</tr>
 
 			<tr>
-				<td><h1>4</h1></td> <td>Tony</td> <td>4 pontos</td>
+				<td><h1>4</h1></td> <td>Tony</td> <td>${tonyPTS} pontos</td>
 			</tr>
 
 			<tr>
-				<td><h1>5</h1></td> <td>Victor</td> <td>3 pontos</td>
+				<td><h1>5</h1></td> <td>Victor</td> <td>${victorPTS} pontos</td>
 			</tr>
 
 		</table>
