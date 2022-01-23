@@ -110,7 +110,7 @@ function pontos () {
                 <td> <strong> Brener </strong> </td><td>PNG</td><td>RNG</td><td>RED</td><td>NET</td><td>FUR</td><td> <strong> 0 pontos </strong> </td>
             </tr>
             <tr>
-                <td> <strong> Tony </strong> </td><td>jogo1</td><td>jogo2</td><td>jogo3</td><td>jogo4</td><td>jogo5</td><td> <strong> 0 pontos </strong> </td>
+                <td> <strong> Tony </strong> </td><td>jogo1</td><td id="loss">NA</td><td>jogo3</td><td>jogo4</td><td>jogo5</td><td> <strong> 0 pontos </strong> </td>
             </tr>
             <tr>
                 <td> <strong> Kennyd </strong> </td><td>PNG</td><td>LIB</td><td>LLL</td><td>NET</td><td>FUR</td><td> <strong> 0 pontos </strong> </td>
