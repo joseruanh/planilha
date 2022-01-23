@@ -183,31 +183,31 @@ function bolao(){
 			</tr>
 
 			<tr>
-				<td><h1>1</h1></td> <td>Pickles</td> <td>4 pontos</td>
+				<td><h1>2</h1></td> <td>Pickles</td> <td>4 pontos</td>
 			</tr>
 
 			<tr>
-				<td><h1>1</h1></td> <td>Brener</td> <td>4 pontos</td>
+				<td><h1>2</h1></td> <td>Brener</td> <td>4 pontos</td>
 			</tr>
 
 			<tr>
-				<td><h1>1</h1></td> <td>Relâmpago</td> <td>3 pontos</td>
+				<td><h1>3</h1></td> <td>Relâmpago</td> <td>3 pontos</td>
 			</tr>
 
             <tr>
-				<td><h1>2</h1></td> <td>Kennyd</td> <td>3 pontos</td>
+				<td><h1>3</h1></td> <td>Kennyd</td> <td>3 pontos</td>
 			</tr>
 
 			<tr>
-				<td><h1>2</h1></td> <td>Jean</td> <td>3 pontos</td>
+				<td><h1>3</h1></td> <td>Jean</td> <td>3 pontos</td>
 			</tr>
 
 			<tr>
-				<td><h1>2</h1></td> <td>Tony</td> <td>2 pontos</td>
+				<td><h1>4</h1></td> <td>Tony</td> <td>2 pontos</td>
 			</tr>
 
 			<tr>
-				<td><h1>3</h1></td> <td>Victor</td> <td>1 ponto</td>
+				<td><h1>5</h1></td> <td>Victor</td> <td>1 ponto</td>
 			</tr>
 
 		</table>
