@@ -35,7 +35,7 @@ function jogos () {
 			</tr>
 
 			<tr>
-				<td> <img class="imgLogo" src="logos/fla.png"> </td><td>x</td><td> <img class="imgLogo" src="logos/fur.png"> </td>
+				<td> <img class="imgLogo" src="logos/fla.png"> </td><td>0 - 1</td><td> <img class="imgLogo" src="logos/fur.png"> </td>
 			</tr>			
 		</table>
 
@@ -87,33 +87,33 @@ function pontos () {
 
             <table id="planilha">
             <tr>
-                <td> <strong> Pickles </strong> </td><td>KBM</td><td id="loss">RNG</td><td id="win">RED</td><td id="win">NET</td><td>FUR</td><td> <strong> 2 pontos </strong> </td>
+                <td> <strong> Pickles </strong> </td><td>KBM</td><td id="loss">RNG</td><td id="win">RED</td><td id="win">NET</td><td id="win">FUR</td><td> <strong> 3 pontos </strong> </td>
             </tr>
 
             <tr>
-                <td> <strong> Ruanh </strong> </td><td>PNG</td><td id="win">LIB</td><td id="win">RED</td><td id="win">NET</td><td>FUR</td><td> <strong> 3 pontos </strong> </td>
+                <td> <strong> Ruanh </strong> </td><td>PNG</td><td id="win">LIB</td><td id="win">RED</td><td id="win">NET</td><td id="win">FUR</td><td> <strong> 4 pontos </strong> </td>
             </tr>
 
             <tr>
-                <td> <strong> Relâmpago </strong> </td><td>jogo1</td><td id="loss">RNG</td><td id="loss">LLL</td><td id="win">NET</td><td>FUR</td><td> <strong> 1 ponto </strong> </td>
+                <td> <strong> Relâmpago </strong> </td><td>jogo1</td><td id="loss">RNG</td><td id="loss">LLL</td><td id="win">NET</td><td id="win">FUR</td><td> <strong> 2 pontos </strong> </td>
             </tr>
 
             <tr>
-                <td> <strong> Victor </strong> </td><td>jogo1</td><td id="loss">RNG</td><td id="loss">LLL</td><td id="win">NET</td><td>FUR</td><td> <strong> 1 ponto </strong> </td>
+                <td> <strong> Victor </strong> </td><td>jogo1</td><td id="loss">RNG</td><td id="loss">LLL</td><td id="win">NET</td><td id="win">FUR</td><td> <strong> 2 pontos </strong> </td>
             </tr>
 
             <tr>
-                <td> <strong> Jean </strong> </td><td>KBM</td><td id="loss">RNG</td><td id="win">RED</td><td id="win">NET</td><td>FUR</td><td> <strong> 2 pontos </strong> </td>
+                <td> <strong> Jean </strong> </td><td>KBM</td><td id="loss">RNG</td><td id="win">RED</td><td id="win">NET</td><td id="win">FUR</td><td> <strong> 3 pontos </strong> </td>
             </tr>
 
             <tr>
-                <td> <strong> Brener </strong> </td><td>PNG</td><td id="loss">RNG</td><td id="win">RED</td><td id="win">NET</td><td>FUR</td><td> <strong> 2 pontos </strong> </td>
+                <td> <strong> Brener </strong> </td><td>PNG</td><td id="loss">RNG</td><td id="win">RED</td><td id="win">NET</td><td id="win">FUR</td><td> <strong> 3 pontos </strong> </td>
             </tr>
             <tr>
-                <td> <strong> Tony </strong> </td><td>jogo1</td><td id="loss">NA</td><td id="loss">NA</td><td id="win">NET</td><td>FUR</td><td> <strong> 1 ponto </strong> </td>
+                <td> <strong> Tony </strong> </td><td>jogo1</td><td id="loss">NA</td><td id="loss">NA</td><td id="win">NET</td><td id="win">FUR</td><td> <strong> 2 pontos </strong> </td>
             </tr>
             <tr>
-                <td> <strong> Kennyd </strong> </td><td>PNG</td><td id="win">LIB</td><td id="loss">LLL</td><td id="win">NET</td><td>FUR</td><td> <strong> 2 pontos </strong> </td>
+                <td> <strong> Kennyd </strong> </td><td>PNG</td><td id="win">LIB</td><td id="loss">LLL</td><td id="win">NET</td><td id="win">FUR</td><td> <strong> 3 pontos </strong> </td>
             </tr>
         </table>
 
@@ -179,35 +179,35 @@ function bolao(){
             <br>
 			<table class="tabelaBOLAO">
 			<tr>
-				<td><h1>1</h1></td> <td>Ruanh</td> <td>6 pontos</td>
+				<td><h1>1</h1></td> <td>Ruanh</td> <td>7 pontos</td>
 			</tr>
 
 			<tr>
-				<td><h1>2</h1></td> <td>Pickles</td> <td>5 pontos</td>
+				<td><h1>2</h1></td> <td>Pickles</td> <td>6 pontos</td>
 			</tr>
 
 			<tr>
-				<td><h1>2</h1></td> <td>Brener</td> <td>5 pontos</td>
+				<td><h1>2</h1></td> <td>Brener</td> <td>6 pontos</td>
 			</tr>
 
 			<tr>
-				<td><h1>3</h1></td> <td>Relâmpago</td> <td>4 pontos</td>
+				<td><h1>3</h1></td> <td>Relâmpago</td> <td>5 pontos</td>
 			</tr>
 
             <tr>
-				<td><h1>3</h1></td> <td>Kennyd</td> <td>4 pontos</td>
+				<td><h1>3</h1></td> <td>Kennyd</td> <td>5 pontos</td>
 			</tr>
 
 			<tr>
-				<td><h1>3</h1></td> <td>Jean</td> <td>4 pontos</td>
+				<td><h1>3</h1></td> <td>Jean</td> <td>5 pontos</td>
 			</tr>
 
 			<tr>
-				<td><h1>4</h1></td> <td>Tony</td> <td>3 pontos</td>
+				<td><h1>4</h1></td> <td>Tony</td> <td>4 pontos</td>
 			</tr>
 
 			<tr>
-				<td><h1>5</h1></td> <td>Victor</td> <td>2 pontos</td>
+				<td><h1>5</h1></td> <td>Victor</td> <td>3 pontos</td>
 			</tr>
 
 		</table>
@@ -251,24 +251,24 @@ function classificacao () {
             		<td> <h1>3</h1> </td> <td> <img class="imgLogo1" src="logos/lll.png"> </td> <td>1v - 1d</td>
             	</tr>
 
+                <tr>
+            		<td> <h1>3</h1> </td> <td> <img class="imgLogo1" src="logos/fur.png"> </td> <td>1v - 1d</td>
+            	</tr>
+
             	<tr>
             		<td> <h1>4</h1> </td> <td> <img class="imgLogo1" src="logos/png.png"> </td> <td>0v - 0d</td>
             	</tr>
 
-            	<tr>
-            		<td> <h1>5</h1> </td> <td> <img class="imgLogo1" src="logos/fla.png"> </td> <td>0v - 1d</td>
+                <tr>
+            		<td> <h1>5</h1> </td> <td> <img class="imgLogo1" src="logos/fla.png"> </td> <td>0v - 2d</td>
             	</tr>
 
             	<tr>
-            		<td> <h1>5</h1> </td> <td> <img class="imgLogo1" src="logos/fur.png"> </td> <td>0v - 1d</td>
-            	</tr>
-
-            	<tr>
-            		<td> <h1>6</h1> </td> <td> <img class="imgLogo1" src="logos/rng.png"> </td> <td>0v - 2d</td>
+            		<td> <h1>5</h1> </td> <td> <img class="imgLogo1" src="logos/rng.png"> </td> <td>0v - 2d</td>
             	</tr>
 
                 <tr>
-            		<td> <h1>6</h1> </td> <td> <img class="imgLogo1" src="logos/itz.png"> </td> <td>0v - 2d</td>
+            		<td> <h1>5</h1> </td> <td> <img class="imgLogo1" src="logos/itz.png"> </td> <td>0v - 2d</td>
             	</tr>
 
             	</table>
