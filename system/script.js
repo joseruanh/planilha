@@ -87,7 +87,7 @@ function pontos () {
 
             <table id="planilha">
             <tr>
-                <td> <strong> Pickles </strong> </td><td>jogo1</td><td>jogo2</td><td>jogo3</td><td>jogo4</td><td>jogo5</td><td> <strong> 0 pontos </strong> </td>
+                <td> <strong> Pickles </strong> </td><td>KBM</td><td>RNG</td><td>RED</td><td>NET</td><td>FUR</td><td> <strong> 0 pontos </strong> </td>
             </tr>
 
             <tr>
@@ -95,7 +95,7 @@ function pontos () {
             </tr>
 
             <tr>
-                <td> <strong> Relâmpago </strong> </td><td>jogo1</td><td>jogo2</td><td>jogo3</td><td>jogo4</td><td>jogo5</td><td> <strong> 0 pontos </strong> </td>
+                <td> <strong> Relâmpago </strong> </td><td>jogo1</td><td>RNG</td><td>LLL</td><td>NET</td><td>FUR</td><td> <strong> 0 pontos </strong> </td>
             </tr>
 
             <tr>
@@ -113,7 +113,7 @@ function pontos () {
                 <td> <strong> Tony </strong> </td><td>jogo1</td><td>jogo2</td><td>jogo3</td><td>jogo4</td><td>jogo5</td><td> <strong> 0 pontos </strong> </td>
             </tr>
             <tr>
-                <td> <strong> Kennyd </strong> </td><td>jogo1</td><td>jogo2</td><td>jogo3</td><td>jogo4</td><td>jogo5</td><td> <strong> 0 pontos </strong> </td>
+                <td> <strong> Kennyd </strong> </td><td>PNG</td><td>LIB</td><td>LLL</td><td>NET</td><td>FUR</td><td> <strong> 0 pontos </strong> </td>
             </tr>
         </table>
 
