@@ -241,11 +241,11 @@ function classificacao () {
             	<table class="classificacao">
 
             	<tr>
-            		<td> <h1>1</h1> </td> <td> <img class="imgLogo1" src="logos/red.png"> </td> <td>2v - 0d</td>
+            		<td> <h1>1</h1> </td> <td> <img class="imgLogo1" src="logos/kbm.png"> </td> <td>2v - 0d</td>
             	</tr>
 
                 <tr>
-            		<td> <h1>1</h1> </td> <td> <img class="imgLogo1" src="logos/kbm.png"> </td> <td>2v - 0d</td>
+            		<td> <h1>1</h1> </td> <td> <img class="imgLogo1" src="logos/red.png"> </td> <td>2v - 0d</td>
             	</tr>
 
                 <tr>
@@ -261,11 +261,11 @@ function classificacao () {
             	</tr>
 
                 <tr>
-            		<td> <h1>4</h1> </td> <td> <img class="imgLogo1" src="logos/lll.png"> </td> <td>1v - 1d</td>
+            		<td> <h1>4</h1> </td> <td> <img class="imgLogo1" src="logos/fur.png"> </td> <td>1v - 1d</td>
             	</tr>
 
                 <tr>
-            		<td> <h1>4</h1> </td> <td> <img class="imgLogo1" src="logos/fur.png"> </td> <td>1v - 1d</td>
+            		<td> <h1>4</h1> </td> <td> <img class="imgLogo1" src="logos/lll.png"> </td> <td>1v - 1d</td>
             	</tr>
 
                 <tr>
@@ -273,11 +273,11 @@ function classificacao () {
             	</tr>
 
             	<tr>
-            		<td> <h1>8</h1> </td> <td> <img class="imgLogo1" src="logos/rng.png"> </td> <td>0v - 2d</td>
+            		<td> <h1>8</h1> </td> <td> <img class="imgLogo1" src="logos/itz.png"> </td> <td>0v - 2d</td>
             	</tr>
 
                 <tr>
-            		<td> <h1>8</h1> </td> <td> <img class="imgLogo1" src="logos/itz.png"> </td> <td>0v - 2d</td>
+            		<td> <h1>8</h1> </td> <td> <img class="imgLogo1" src="logos/rng.png"> </td> <td>0v - 2d</td>
             	</tr>
 
             	</table>
