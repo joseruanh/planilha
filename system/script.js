@@ -59,7 +59,7 @@ function jogos () {
             </tr>
 
             <tr>
-                <td> <img class="imgLogo" src="logos/png.png"> </td><td>x</td><td> <img class="imgLogo" src="logos/lib.png"> </td>
+                <td> <img class="imgLogo" src="logos/png.png"> </td><td>1 - 0</td><td> <img class="imgLogo" src="logos/lib.png"> </td>
             </tr>
 
             <tr>
@@ -124,33 +124,33 @@ function pontos () {
 
             <table id="planilha">
             <tr>
-                <td> <strong> Pickles </strong> </td><td id="win">LLL</td><td id="loss">FLA</td><td id="win">KBM</td><td>PNG</td><td id="win">RED</td><td> <strong> 3 pontos </strong> </td>
+                <td> <strong> Pickles </strong> </td><td id="win">LLL</td><td id="loss">FLA</td><td id="win">KBM</td><td id="win">PNG</td><td id="win">RED</td><td> <strong> 4 pontos </strong> </td>
             </tr>
 
             <tr>
-                <td> <strong> Ruanh </strong> </td><td id="win">LLL</td><td id="loss">FLA</td><td id="win">KBM</td><td>PNG</td><td id="win">RED</td><td> <strong> 3 pontos </strong> </td>
+                <td> <strong> Ruanh </strong> </td><td id="win">LLL</td><td id="loss">FLA</td><td id="win">KBM</td><td id="win">PNG</td><td id="win">RED</td><td> <strong> 4 pontos </strong> </td>
             </tr>
 
             <tr>
-                <td> <strong> Relâmpago </strong> </td><td id="win">LLL</td><td id="loss">FLA</td><td id="win">KBM</td><td>PNG</td><td id="win">RED</td><td> <strong> 3 pontos </strong> </td>
+                <td> <strong> Relâmpago </strong> </td><td id="win">LLL</td><td id="loss">FLA</td><td id="win">KBM</td><td id="win">PNG</td><td id="win">RED</td><td> <strong> 4 pontos </strong> </td>
             </tr>
 
             <tr>
-                <td> <strong> Victor </strong> </td><td id="loss">FUR</td><td id="loss">FLA</td><td id="win">KBM</td><td>PNG</td><td id="loss">RNG</td><td> <strong> 1 ponto </strong> </td>
+                <td> <strong> Victor </strong> </td><td id="loss">FUR</td><td id="loss">FLA</td><td id="win">KBM</td><td id="win">PNG</td><td id="loss">RNG</td><td> <strong> 2 pontos </strong> </td>
             </tr>
 
             <tr>
-                <td> <strong> Jean </strong> </td><td id="win">LLL</td><td id="loss">FLA</td><td id="loss">ITZ</td><td>PNG</td><td id="win">RED</td><td> <strong> 2 pontos </strong> </td>
+                <td> <strong> Jean </strong> </td><td id="win">LLL</td><td id="loss">FLA</td><td id="loss">ITZ</td><td id="win">PNG</td><td id="win">RED</td><td> <strong> 3 pontos </strong> </td>
             </tr>
 
             <tr>
-                <td> <strong> Brener </strong> </td><td id="win">LLL</td><td id="loss">FLA</td><td id="win">KBM</td><td>PNG</td><td id="win">RED</td><td> <strong> 3 pontos </strong> </td>
+                <td> <strong> Brener </strong> </td><td id="win">LLL</td><td id="loss">FLA</td><td id="win">KBM</td><td id="win">PNG</td><td id="win">RED</td><td> <strong> 4 pontos </strong> </td>
             </tr>
             <tr>
-                <td> <strong> Tony </strong> </td><td id="win">LLL</td><td id="loss">FLA</td><td id="loss">ITZ</td><td>PNG</td><td id="win">RED</td><td> <strong> 2 pontos </strong> </td>
+                <td> <strong> Tony </strong> </td><td id="win">LLL</td><td id="loss">FLA</td><td id="loss">ITZ</td><td id="win">PNG</td><td id="win">RED</td><td> <strong> 3 pontos </strong> </td>
             </tr>
             <tr>
-                <td> <strong> Kennyd </strong> </td><td id="win">LLL</td><td id="loss">FLA</td><td id="loss">ITZ</td><td>PNG</td><td id="win">RED</td><td> <strong> 2 pontos</strong> </td>
+                <td> <strong> Kennyd </strong> </td><td id="win">LLL</td><td id="loss">FLA</td><td id="loss">ITZ</td><td id="win">PNG</td><td id="win">RED</td><td> <strong> 3 pontos</strong> </td>
             </tr>
         </table>
 
@@ -168,14 +168,14 @@ function bolao(){
     window.scroll(0, 0);
     let content = window.document.getElementById("res");
 
-    let primeiro = {nome:'Ruanh', pontos: 7};
-    let segundo = {nome: 'Pickles', pontos: 6};
-    let terceiro = {nome: 'Brener', pontos: 6};
-    let quarto = {nome: 'Relâmpago', pontos: 5};
-    let quinto = {nome: 'Kennyd', pontos: 5};
-    let sexto = {nome: 'Jean', pontos: 5};
-    let setimo = {nome: 'Tony', pontos: 4};
-    let oitavo = {nome: 'Victor', pontos: 3};
+    let primeiro = {nome:'Ruanh', pontos: 8};
+    let segundo = {nome: 'Pickles', pontos: 7};
+    let terceiro = {nome: 'Brener', pontos: 7};
+    let quarto = {nome: 'Relâmpago', pontos: 6};
+    let quinto = {nome: 'Kennyd', pontos: 6};
+    let sexto = {nome: 'Jean', pontos: 6};
+    let setimo = {nome: 'Tony', pontos: 5};
+    let oitavo = {nome: 'Victor', pontos: 4};
 
     content.innerHTML = `
     
