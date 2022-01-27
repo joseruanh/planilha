@@ -95,7 +95,7 @@ function pontos () {
             </tr>
 
             <tr>
-                <td> <strong> Relâmpago </strong> </td><td>jogo1</td><td id="loss">RNG</td><td id="loss">LLL</td><td id="win">NET</td><td id="win">FUR</td><td> <strong> 2 pontos </strong> </td>
+                <td> <strong> Relâmpago </strong> </td><td>KBM</td><td id="loss">RNG</td><td id="loss">LLL</td><td id="win">NET</td><td id="win">FUR</td><td> <strong> 2 pontos </strong> </td>
             </tr>
 
             <tr>
