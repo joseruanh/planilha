@@ -19,7 +19,7 @@ function jogos () {
     
     <table id="tbRodada1" class="resultados">
 			<tr>
-				<td> <img class="imgLogo" src="logos/png.png"> </td><td>x</td><td> <img class="imgLogo" src="logos/kbm.png"> </td>
+				<td> <img class="imgLogo" src="logos/png.png"> </td><td>0 - 1</td><td> <img class="imgLogo" src="logos/kbm.png"> </td>
 			</tr>
 
 			<tr>
@@ -87,33 +87,33 @@ function pontos () {
 
             <table id="planilha">
             <tr>
-                <td> <strong> Pickles </strong> </td><td>KBM</td><td id="loss">RNG</td><td id="win">RED</td><td id="win">NET</td><td id="win">FUR</td><td> <strong> 3 pontos </strong> </td>
+                <td> <strong> Pickles </strong> </td><td id="win">KBM</td><td id="loss">RNG</td><td id="win">RED</td><td id="win">NET</td><td id="win">FUR</td><td> <strong> 4 pontos </strong> </td>
             </tr>
 
             <tr>
-                <td> <strong> Ruanh </strong> </td><td>PNG</td><td id="win">LIB</td><td id="win">RED</td><td id="win">NET</td><td id="win">FUR</td><td> <strong> 4 pontos </strong> </td>
+                <td> <strong> Ruanh </strong> </td><td id="loss">PNG</td><td id="win">LIB</td><td id="win">RED</td><td id="win">NET</td><td id="win">FUR</td><td> <strong> 4 pontos </strong> </td>
             </tr>
 
             <tr>
-                <td> <strong> Relâmpago </strong> </td><td>KBM</td><td id="loss">RNG</td><td id="loss">LLL</td><td id="win">NET</td><td id="win">FUR</td><td> <strong> 2 pontos </strong> </td>
+                <td> <strong> Relâmpago </strong> </td><td id="win">KBM</td><td id="loss">RNG</td><td id="loss">LLL</td><td id="win">NET</td><td id="win">FUR</td><td> <strong> 3 pontos </strong> </td>
             </tr>
 
             <tr>
-                <td> <strong> Victor </strong> </td><td>KBM</td><td id="loss">RNG</td><td id="loss">LLL</td><td id="win">NET</td><td id="win">FUR</td><td> <strong> 2 pontos </strong> </td>
+                <td> <strong> Victor </strong> </td><td id="win">KBM</td><td id="loss">RNG</td><td id="loss">LLL</td><td id="win">NET</td><td id="win">FUR</td><td> <strong> 3 pontos </strong> </td>
             </tr>
 
             <tr>
-                <td> <strong> Jean </strong> </td><td>KBM</td><td id="loss">RNG</td><td id="win">RED</td><td id="win">NET</td><td id="win">FUR</td><td> <strong> 3 pontos </strong> </td>
+                <td> <strong> Jean </strong> </td><td id="win">KBM</td><td id="loss">RNG</td><td id="win">RED</td><td id="win">NET</td><td id="win">FUR</td><td> <strong> 4 pontos </strong> </td>
             </tr>
 
             <tr>
-                <td> <strong> Brener </strong> </td><td>PNG</td><td id="loss">RNG</td><td id="win">RED</td><td id="win">NET</td><td id="win">FUR</td><td> <strong> 3 pontos </strong> </td>
+                <td> <strong> Brener </strong> </td><td id="loss">PNG</td><td id="loss">RNG</td><td id="win">RED</td><td id="win">NET</td><td id="win">FUR</td><td> <strong> 3 pontos </strong> </td>
             </tr>
             <tr>
-                <td> <strong> Tony </strong> </td><td>PNG</td><td id="loss">NA</td><td id="loss">NA</td><td id="win">NET</td><td id="win">FUR</td><td> <strong> 2 pontos </strong> </td>
+                <td> <strong> Tony </strong> </td><td id="loss">PNG</td><td id="loss">NA</td><td id="loss">NA</td><td id="win">NET</td><td id="win">FUR</td><td> <strong> 2 pontos </strong> </td>
             </tr>
             <tr>
-                <td> <strong> Kennyd </strong> </td><td>PNG</td><td id="win">LIB</td><td id="loss">LLL</td><td id="win">NET</td><td id="win">FUR</td><td> <strong> 3 pontos </strong> </td>
+                <td> <strong> Kennyd </strong> </td><td id="loss">PNG</td><td id="win">LIB</td><td id="loss">LLL</td><td id="win">NET</td><td id="win">FUR</td><td> <strong> 3 pontos </strong> </td>
             </tr>
         </table>
 
@@ -169,13 +169,13 @@ function bolao(){
     let content = window.document.getElementById("res");
 
     let primeiro = {nome:'Ruanh', pontos: 8};
-    let segundo = {nome: 'Pickles', pontos: 7};
+    let segundo = {nome: 'Pickles', pontos: 8};
     let terceiro = {nome: 'Brener', pontos: 7};
-    let quarto = {nome: 'Relâmpago', pontos: 6};
-    let quinto = {nome: 'Kennyd', pontos: 6};
-    let sexto = {nome: 'Jean', pontos: 6};
+    let quarto = {nome: 'Relâmpago', pontos: 7};
+    let quinto = {nome: 'Jean', pontos: 7};
+    let sexto = {nome: 'Kennyd', pontos: 6};
     let setimo = {nome: 'Tony', pontos: 5};
-    let oitavo = {nome: 'Victor', pontos: 4};
+    let oitavo = {nome: 'Victor', pontos: 5};
 
     content.innerHTML = `
     
@@ -245,39 +245,39 @@ function classificacao () {
             	</tr>
 
                 <tr>
+            		<td> <h1>1</h1> </td> <td> <img class="imgLogo1" src="logos/kbm.png"> </td> <td>2v - 0d</td>
+            	</tr>
+
+                <tr>
             		<td> <h1>1</h1> </td> <td> <img class="imgLogo1" src="logos/net.png"> </td> <td>2v - 0d</td>
             	</tr>
 
-            	<tr>
-            		<td> <h1>2</h1> </td> <td> <img class="imgLogo1" src="logos/kbm.png"> </td> <td>1v - 0d</td>
-            	</tr>
-
-            	<tr>
-            		<td> <h1>2</h1> </td> <td> <img class="imgLogo1" src="logos/lib.png"> </td> <td>1v - 0d</td>
-            	</tr>
-
                 <tr>
-            		<td> <h1>3</h1> </td> <td> <img class="imgLogo1" src="logos/lll.png"> </td> <td>1v - 1d</td>
-            	</tr>
-
-                <tr>
-            		<td> <h1>3</h1> </td> <td> <img class="imgLogo1" src="logos/fur.png"> </td> <td>1v - 1d</td>
+            		<td> <h1>4</h1> </td> <td> <img class="imgLogo1" src="logos/png.png"> </td> <td>1v - 1d</td>
             	</tr>
 
             	<tr>
-            		<td> <h1>4</h1> </td> <td> <img class="imgLogo1" src="logos/png.png"> </td> <td>0v - 0d</td>
+            		<td> <h1>4</h1> </td> <td> <img class="imgLogo1" src="logos/lib.png"> </td> <td>1v - 1d</td>
             	</tr>
 
                 <tr>
-            		<td> <h1>5</h1> </td> <td> <img class="imgLogo1" src="logos/fla.png"> </td> <td>0v - 2d</td>
+            		<td> <h1>4</h1> </td> <td> <img class="imgLogo1" src="logos/lll.png"> </td> <td>1v - 1d</td>
+            	</tr>
+
+                <tr>
+            		<td> <h1>4</h1> </td> <td> <img class="imgLogo1" src="logos/fur.png"> </td> <td>1v - 1d</td>
+            	</tr>
+
+                <tr>
+            		<td> <h1>8</h1> </td> <td> <img class="imgLogo1" src="logos/fla.png"> </td> <td>0v - 2d</td>
             	</tr>
 
             	<tr>
-            		<td> <h1>5</h1> </td> <td> <img class="imgLogo1" src="logos/rng.png"> </td> <td>0v - 2d</td>
+            		<td> <h1>8</h1> </td> <td> <img class="imgLogo1" src="logos/rng.png"> </td> <td>0v - 2d</td>
             	</tr>
 
                 <tr>
-            		<td> <h1>5</h1> </td> <td> <img class="imgLogo1" src="logos/itz.png"> </td> <td>0v - 2d</td>
+            		<td> <h1>8</h1> </td> <td> <img class="imgLogo1" src="logos/itz.png"> </td> <td>0v - 2d</td>
             	</tr>
 
             	</table>
