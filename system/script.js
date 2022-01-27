@@ -192,7 +192,7 @@ function bolao(){
 			</tr>
 
 			<tr>
-				<td><h1>2</h1></td> <td>${segundo.nome}</td> <td>${segundo.pontos} pontos</td>
+				<td><h1>1</h1></td> <td>${segundo.nome}</td> <td>${segundo.pontos} pontos</td>
 			</tr>
 
 			<tr>
@@ -200,11 +200,11 @@ function bolao(){
 			</tr>
 
 			<tr>
-				<td><h1>3</h1></td> <td>${quarto.nome}</td> <td>${quarto.pontos} pontos</td>
+				<td><h1>2</h1></td> <td>${quarto.nome}</td> <td>${quarto.pontos} pontos</td>
 			</tr>
 
             <tr>
-				<td><h1>3</h1></td> <td>${quinto.nome}</td> <td>${quinto.pontos} pontos</td>
+				<td><h1>2</h1></td> <td>${quinto.nome}</td> <td>${quinto.pontos} pontos</td>
 			</tr>
 
 			<tr>
@@ -216,7 +216,7 @@ function bolao(){
 			</tr>
 
 			<tr>
-				<td><h1>5</h1></td> <td>${oitavo.nome}</td> <td>${oitavo.pontos} pontos</td>
+				<td><h1>4</h1></td> <td>${oitavo.nome}</td> <td>${oitavo.pontos} pontos</td>
 			</tr>
 
 		</table>
