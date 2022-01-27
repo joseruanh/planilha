@@ -99,7 +99,7 @@ function pontos () {
             </tr>
 
             <tr>
-                <td> <strong> Victor </strong> </td><td>jogo1</td><td id="loss">RNG</td><td id="loss">LLL</td><td id="win">NET</td><td id="win">FUR</td><td> <strong> 2 pontos </strong> </td>
+                <td> <strong> Victor </strong> </td><td>KBM</td><td id="loss">RNG</td><td id="loss">LLL</td><td id="win">NET</td><td id="win">FUR</td><td> <strong> 2 pontos </strong> </td>
             </tr>
 
             <tr>
@@ -110,7 +110,7 @@ function pontos () {
                 <td> <strong> Brener </strong> </td><td>PNG</td><td id="loss">RNG</td><td id="win">RED</td><td id="win">NET</td><td id="win">FUR</td><td> <strong> 3 pontos </strong> </td>
             </tr>
             <tr>
-                <td> <strong> Tony </strong> </td><td>jogo1</td><td id="loss">NA</td><td id="loss">NA</td><td id="win">NET</td><td id="win">FUR</td><td> <strong> 2 pontos </strong> </td>
+                <td> <strong> Tony </strong> </td><td>PNG</td><td id="loss">NA</td><td id="loss">NA</td><td id="win">NET</td><td id="win">FUR</td><td> <strong> 2 pontos </strong> </td>
             </tr>
             <tr>
                 <td> <strong> Kennyd </strong> </td><td>PNG</td><td id="win">LIB</td><td id="loss">LLL</td><td id="win">NET</td><td id="win">FUR</td><td> <strong> 3 pontos </strong> </td>
