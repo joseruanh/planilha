@@ -144,7 +144,7 @@ function pontos () {
             </tr>
 
             <tr>
-                <td> <strong> Victor </strong> <td id="loss">RED</td> <td id="win">NET</td> <td>KBM</td> <td>ITZ</td> <td>LLL</td> <td> <strong> 0 pontos </strong> </td>
+                <td> <strong> Victor </strong> <td id="loss">RED</td> <td id="win">NET</td> <td>KBM</td> <td>ITZ</td> <td>LLL</td> <td> <strong> 1 ponto </strong> </td>
             </tr>
 
             <tr>
