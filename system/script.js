@@ -166,7 +166,7 @@ function pontos () {
             <table id="planilha">
 
             <tr>
-                <td> <strong> Pickles </strong> </td> <td>pt1</td> <td>pt2</td> <td>pt3</td> <td>pt4</td> <td>pt5</td> <td> <strong> 0 pontos </strong> </td>
+                <td> <strong> Pickles </strong> </td> <td>KBM</td> <td>LIB</td> <td>NET</td> <td>FUR</td> <td>FLA</td> <td> <strong> 0 pontos </strong> </td>
             </tr>
 
             <tr>
@@ -178,15 +178,15 @@ function pontos () {
             </tr>
 
             <tr>
-                <td> <strong> Victor </strong> </td> <td>pt1</td> <td>pt2</td> <td>pt3</td> <td>pt4</td> <td>pt5</td> <td> <strong> 0 pontos </strong> </td>
+                <td> <strong> Victor </strong> </td> <td>KBM</td> <td>LIB</td> <td>NET</td> <td>FUR</td> <td>ITZ</td> <td> <strong> 0 pontos </strong> </td>
             </tr>
 
             <tr>
-                <td> <strong> Jean </strong> </td> <td>pt1</td> <td>pt2</td> <td>pt3</td> <td>pt4</td> <td>pt5</td> <td> <strong> 0 pontos </strong> </td>
+                <td> <strong> Jean </strong> </td> <td>KBM</td> <td>LLL</td> <td>NET</td> <td>FUR</td> <td>ITZ</td> <td> <strong> 0 pontos </strong> </td>
             </tr>
 
             <tr>
-                <td> <strong> Brener </strong> </td> <td>pt1</td> <td>pt2</td> <td>pt3</td> <td>pt4</td> <td>pt5</td> <td> <strong> 0 pontos </strong> </td>
+                <td> <strong> Brener </strong> </td> <td>KBM</td> <td>LLL</td> <td>RNG</td> <td>FUR</td> <td>ITZ</td> <td> <strong> 0 pontos </strong> </td>
             </tr>
 
             <tr>
@@ -194,7 +194,7 @@ function pontos () {
             </tr>
 
             <tr>
-                <td> <strong> Kennyd </strong> </td> <td>pt1</td> <td>pt2</td> <td>pt3</td> <td>pt4</td> <td>pt5</td> <td> <strong> 0 pontos </strong> </td>
+                <td> <strong> Kennyd </strong> </td> <td>RED</td> <td>LLL</td> <td>NET</td> <td>PNG</td> <td>FLA</td> <td> <strong> 0 pontos </strong> </td>
             </tr>
             
         </table>
