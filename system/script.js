@@ -395,11 +395,11 @@ function classificacao () {
             	</tr>
 
                 <tr>
-                    <td> <h1>1</h1> </td> <td> <img class="imgLogo1" src="logos/kbm.png"> </td> <td>3v - 1d</td>
+                    <td> <h1>2</h1> </td> <td> <img class="imgLogo1" src="logos/kbm.png"> </td> <td>3v - 1d</td>
                 </tr>
 
                 <tr>
-            		<td> <h1>3</h1> </td> <td> <img class="imgLogo1" src="logos/red.png"> </td> <td>3v - 1d</td>
+            		<td> <h1>2</h1> </td> <td> <img class="imgLogo1" src="logos/red.png"> </td> <td>3v - 1d</td>
             	</tr>
 
                 <tr>
