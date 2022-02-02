@@ -18,6 +18,17 @@ body
     height: 100%;
 }
 
+::-webkit-scrollbar{
+	width: 5px;
+}
+::-webkit-scrollbar-track{
+	background-color: transparent;
+}
+::-webkit-scrollbar-thumb{
+	background: lightgrey;
+	border-radius: 10px;
+}
+
 header
 {
     width: 100%;
