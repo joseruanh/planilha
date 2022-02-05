@@ -190,7 +190,7 @@ function pontos () {
 
             <table id="planilha">
             <tr>
-                <td> <strong> Pickles </strong> <td>pt1</td> <td>pt2</td> <td>pt3</td> <td>pt4</td> <td>pt5</td> <td> <strong> 0 pontos </strong> </td>
+                <td> <strong> Pickles </strong> <td>RED</td> <td>LLL</td> <td>LIB</td> <td>PNG</td> <td>FUR</td> <td> <strong> 0 pontos </strong> </td>
             </tr>
 
             <tr>
@@ -202,19 +202,19 @@ function pontos () {
             </tr>
 
             <tr>
-                <td> <strong> Victor </strong> <td>pt1</td> <td>pt2</td> <td>pt3</td> <td>pt4</td> <td>pt5</td> <td> <strong> 0 pontos </strong> </td>
+                <td> <strong> Victor </strong> <td>RED</td> <td>LLL</td> <td>KBM</td> <td>PNG</td> <td>FUR</td> <td> <strong> 0 pontos </strong> </td>
             </tr>
 
             <tr>
-                <td> <strong> Jean </strong> <td>pt1</td> <td>pt2</td> <td>pt3</td> <td>pt4</td> <td>pt5</td> <td> <strong> 0 pontos </strong> </td>
+                <td> <strong> Jean </strong> <td>RED</td> <td>LLL</td> <td>KBM</td> <td>PNG</td> <td>pt5</td> <td> <strong> 0 pontos </strong> </td>
             </tr>
 
             <tr>
-                <td> <strong> Brener </strong> <td>pt1</td> <td>pt2</td> <td>pt3</td> <td>pt4</td> <td>pt5</td> <td> <strong> 0 pontos </strong> </td>
+                <td> <strong> Brener </strong> <td>RED</td> <td>LLL</td> <td>LIB</td> <td>PNG</td> <td>FUR</td> <td> <strong> 0 pontos </strong> </td>
             </tr>
 
             <tr>
-                <td> <strong> Tony </strong> <td>pt1</td> <td>pt2</td> <td>pt3</td> <td>pt4</td> <td>pt5</td> <td> <strong> 0 pontos </strong> </td>
+                <td> <strong> Tony </strong> <td>RED</td> <td>LLL</td> <td>KBM</td> <td>PNG</td> <td>pt5</td> <td> <strong> 0 pontos </strong> </td>
             </tr>
 
             <tr>
