@@ -29,7 +29,7 @@ function jogos () {
 
 
             <p><strong>Rodada 5</strong></p>
-            <p class="pData">30/01</p>
+            <p class="pData">05/02</p>
     <br>
     
     <table id="tbRodada1" class="resultados">
