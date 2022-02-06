@@ -222,7 +222,7 @@ function pontos () {
             </tr>
 
             <tr>
-                <td> <strong> Relâmpago </strong> <td>pt1</td> <td>pt2</td> <td>pt3</td> <td>pt4</td> <td>pt5</td> <td> <strong> 0 pontos </strong> </td>
+                <td> <strong> Relâmpago </strong> <td>LLL</td> <td>FUR</td> <td>PNG</td> <td>LIB</td> <td>RNG</td> <td> <strong> 0 pontos </strong> </td>
             </tr>
 
             <tr>
