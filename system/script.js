@@ -27,6 +27,30 @@ function jogos () {
             <br>
             <br>
 
+            <p><strong>Rodada 6</strong></p>
+            <p class="pData">06/02</p>
+    <br>
+    
+    <table id="tbRodada1" class="resultados">
+            <tr>
+                <td> <img class="imgLogo" src="logos/kbm.png"> </td><td>x</td><td> <img class="imgLogo" src="logos/lll.png"> </td>
+            </tr>
+
+            <tr>
+                <td> <img class="imgLogo" src="logos/red.png"> </td><td>x</td><td> <img class="imgLogo" src="logos/fur.png"> </td>
+            </tr>
+
+            <tr>
+                <td> <img class="imgLogo" src="logos/png.png"> </td><td>x</td><td> <img class="imgLogo" src="logos/itz.png"> </td>
+            </tr>
+
+            <tr>
+                <td> <img class="imgLogo" src="logos/lib.png"> </td><td>x</td><td> <img class="imgLogo" src="logos/net.png"> </td>
+            </tr>           
+        </table>
+
+            <br><br><br>
+
 
             <p><strong>Rodada 5</strong></p>
             <p class="pData">05/02</p>
@@ -184,6 +208,45 @@ function pontos () {
             <p><strong>Votos e Pontos por rodada</strong></p>
             <br>
             <br>
+
+            <p><strong>RODADA 6</strong></p>
+            <br>
+
+            <table id="planilha">
+            <tr>
+                <td> <strong> Pickles </strong> <td>KBM</td> <td>FUR</td> <td>PNG</td> <td>LIB</td> <td>pt5</td> <td> <strong> 0 pontos </strong> </td>
+            </tr>
+
+            <tr>
+                <td> <strong> Ruanh </strong> <td>KBM</td> <td>RED</td> <td>PNG</td> <td>LIB</td> <td>pt5</td> <td> <strong> 0 pontos </strong> </td>
+            </tr>
+
+            <tr>
+                <td> <strong> Relâmpago </strong> <td>pt1</td> <td>pt2</td> <td>pt3</td> <td>pt4</td> <td>pt5</td> <td> <strong> 0 pontos </strong> </td>
+            </tr>
+
+            <tr>
+                <td> <strong> Victor </strong> <td>pt1</td> <td>pt2</td> <td>pt3</td> <td>pt4</td> <td>pt5</td> <td> <strong> 0 pontos </strong> </td>
+            </tr>
+
+            <tr>
+                <td> <strong> Jean </strong> <td>pt1</td> <td>pt2</td> <td>pt3</td> <td>pt4</td> <td>pt5</td> <td> <strong> 0 pontos </strong> </td>
+            </tr>
+
+            <tr>
+                <td> <strong> Brener </strong> <td>pt1</td> <td>pt2</td> <td>pt3</td> <td>pt4</td> <td>pt5</td> <td> <strong> 0 pontos </strong> </td>
+            </tr>
+
+            <tr>
+                <td> <strong> Tony </strong> <td>pt1</td> <td>pt2</td> <td>pt3</td> <td>pt4</td> <td>pt5</td> <td> <strong> 0 pontos </strong> </td>
+            </tr>
+
+            <tr>
+                <td> <strong> Kennyd </strong> <td>pt1</td> <td>pt2</td> <td>pt3</td> <td>pt4</td> <td>pt5</td> <td> <strong> 0 pontos </strong> </td>
+            </tr>            
+        </table>
+
+        <br><br><br>
 
             <p><strong>RODADA 5</strong></p>
             <br>
