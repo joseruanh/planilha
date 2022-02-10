@@ -27,6 +27,22 @@ function jogos () {
             <br>
             <br>
 
+            <p><strong>Rodada 5/6</strong></p>
+            <p class="pData">jogos adiados</p>
+    <br>
+    
+    <table id="tbRodada1" class="resultados">
+            <tr>
+                <td> <img class="imgLogo" src="logos/fur.png"> </td><td>x</td><td> <img class="imgLogo" src="logos/rng.png"> </td>
+            </tr>
+
+            <tr>
+                <td> <img class="imgLogo" src="logos/rng.png"> </td><td>x</td><td> <img class="imgLogo" src="logos/fla.png"> </td>
+            </tr>
+            </table>
+
+            <br><br><br>
+
             <p><strong>Rodada 6</strong></p>
             <p class="pData">06/02</p>
     <br>
