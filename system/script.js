@@ -254,11 +254,11 @@ function pontos () {
             </tr>
 
             <tr>
-                <td> <strong> Tony </strong> <td id="loss">NA</td> <td id="loss">RED</td> <td id="loss">PNG</td> <td id="win">LIB</td> <td>pt5</td> <td> <strong> 1 ponto </strong> </td>
+                <td> <strong> Tony </strong> <td id="loss">NA</td> <td id="loss">RED</td> <td id="loss">PNG</td> <td id="win">LIB</td> <td>RNG</td> <td> <strong> 1 ponto </strong> </td>
             </tr>
 
             <tr>
-                <td> <strong> Kennyd </strong> <td id="win">KBM</td> <td id="loss">RED</td> <td id="loss">PNG</td> <td id="win">LIB</td> <td>pt5</td> <td> <strong> 2 pontos </strong> </td>
+                <td> <strong> Kennyd </strong> <td id="win">KBM</td> <td id="loss">RED</td> <td id="loss">PNG</td> <td id="win">LIB</td> <td id="loss">NA</td> <td> <strong> 2 pontos </strong> </td>
             </tr>            
         </table>
 
