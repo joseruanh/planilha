@@ -106,5 +106,7 @@ function bolao()
 			</tr>
 
 		</table>
+
+		<br><br><br>
     `
 }
