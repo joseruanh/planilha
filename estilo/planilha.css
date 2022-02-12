@@ -4,7 +4,7 @@ div.opt
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    padding: 60px 5px 5px 5px;
+    padding: 20px 5px 5px 5px;
     max-width: 800px;
     margin: auto;
 }
