@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+
+
+*{margin: 0; padding: 0; color: white; font-family: "Raleway";}
+
+::-webkit-scrollbar{width: 3px;}
+::-webkit-scrollbar-track{background: transparent;}
+::-webkit-scrollbar-thumb{background: var(--cor2); border-radius: 10px;}
+
+:root
+{
+    --cor1: rgb(24, 24, 24);
+    --cor2: rgb(255, 74, 74);
+}
+
+body
+{
+
+    background: var(--cor1);
+}
+
+header
+{
+    position: fixed;
+    width: 99%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid var(--cor2);
+    background: var(--cor1);
+}
+
+a.aLogo
+{
+    text-decoration: none;
+}
+a.aLogo:hover
+{
+    color: var(--cor2);
+}
+
+div.nav
+{
+    margin-right: 13px;
+}
+
+div.nav > a
+{
+    padding: 10px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+div.nav > a:hover
+{
+    background: var(--cor2);
+}
+
+div.content
+{
+    padding: 40px 0px 30px 0px;
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+}
+
+p.cit
+{
+    max-width: 200px;
+    text-align: right;
+    margin: auto 3% auto auto;
+}
+
+i
+{
+    font-size: 0.3em;
+}
+
+div.noticia
+{
+    max-width: 100%;
+    margin: 25px 5px auto 5px;
+    background: rgba(255, 255, 255, 0.083);
+    padding: 15px 5px 15px 5px;
+    border-radius: 10px;
+}
+
+img.meme
+{
+    max-width: 90%;
+    margin: auto;
+    border-radius: 10px;
+}
+
+a:visited{text-decoration: none;}
+
+img.imagemCBLOL
+{
+    margin: auto;
+    max-width: 20%;
+}

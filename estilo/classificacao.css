@@ -1,0 +1,38 @@
+div.tabelas
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 60px 5px 5px 5px;
+    max-width: 800px;
+    margin: auto;
+}
+button.botaoOPT
+{
+    width: 150px;
+    background: transparent;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid var(--cor2);
+    cursor: pointer;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    transition: 0.3s;
+}
+
+button.botaoOPT:hover
+{
+    background-color: var(--cor2);
+}
+
+div.resultados
+{
+
+    border-top: 1px solid var(--cor2);
+    text-align: center;
+    padding: 10px 5px 20px 5px;
+    max-width: 800px;
+    margin: 10px auto auto auto;
+}
