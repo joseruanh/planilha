@@ -35,6 +35,7 @@ header
 a.aLogo
 {
     text-decoration: none;
+    font-weight: bold;
 }
 a.aLogo:hover
 {
