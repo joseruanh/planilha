@@ -1,11 +1,11 @@
-var primeiro = {nome: 'Pickles', pontos: 21, posicao: 1};
-var segundo = {nome: 'Jean', pontos: 21, posicao: 1};
-var terceiro = {nome: 'Relâmpago', pontos: 20, posicao: 2};
-var quarto = {nome:'Ruanh', pontos: 19, posicao: 3};
-var quinto = {nome: 'Brener', pontos: 19, posicao: 3};
-var sexto = {nome: 'Victor', pontos: 18, posicao: 4};
-var setimo = {nome: 'Kennyd', pontos: 17, posicao: 5};
-var oitavo = {nome: 'Tony', pontos: 17, posicao: 5};
+var primeiro = {nome: 'Pickles', pontos: 22, posicao: 1};
+var segundo = {nome: 'Jean', pontos: 22, posicao: 1};
+var terceiro = {nome: 'Relâmpago', pontos: 21, posicao: 2};
+var quarto = {nome:'Ruanh', pontos: 20, posicao: 3};
+var quinto = {nome: 'Brener', pontos: 20, posicao: 3};
+var sexto = {nome: 'Victor', pontos: 19, posicao: 4};
+var setimo = {nome: 'Kennyd', pontos: 18, posicao: 5};
+var oitavo = {nome: 'Tony', pontos: 18, posicao: 5};
 
 
 function cblol()
@@ -19,19 +19,19 @@ function cblol()
 
 
             	<tr>
-                    <td> <h1>1</h1> </td> <td> <img class="imgLogo1" src="../logos/kbm.png"> </td> <td>5v - 1d</td>
+                    <td> <h1>1</h1> </td> <td> <img class="imgLogo1" src="../logos/fur.png"> </td> <td>6v - 1d</td>
                 </tr>
 
                 <tr>
-            		<td> <h1>1</h1> </td> <td> <img class="imgLogo1" src="../logos/fur.png"> </td> <td>5v - 1d</td>
-            	</tr>
-
-                <tr>
-                    <td> <h1>3</h1> </td> <td> <img class="imgLogo1" src="../logos/lib.png"> </td> <td>4v - 2d</td>
+                    <td> <h1>2</h1> </td> <td> <img class="imgLogo1" src="../logos/kbm.png"> </td> <td>5v - 1d</td>
                 </tr>
 
                 <tr>
-                    <td> <h1>4</h1> </td> <td> <img class="imgLogo1" src="../logos/red.png"> </td> <td>4v - 3d</td>
+                    <td> <h1>3</h1> </td> <td> <img class="imgLogo1" src="../logos/lib.png"> </td> <td>4v - 3d</td>
+                </tr>
+
+                <tr>
+                    <td> <h1>3</h1> </td> <td> <img class="imgLogo1" src="../logos/red.png"> </td> <td>4v - 3d</td>
                 </tr>
 
             	<tr>
