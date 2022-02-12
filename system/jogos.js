@@ -22,7 +22,7 @@ function jogo7()
             </tr>
 
             <tr>
-                <td> <img class="imgLogo" src="../logos/lll.png"> </td><td>x</td><td> <img class="imgLogo" src="../logos/png.png"> </td>
+                <td> <img class="imgLogo" src="../logos/lll.png"> </td><td>1 - 0</td><td> <img class="imgLogo" src="../logos/png.png"> </td>
             </tr>
 
             <tr>
