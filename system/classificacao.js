@@ -27,11 +27,11 @@ function cblol()
             	</tr>
 
                 <tr>
-            		<td> <h1>3</h1> </td> <td> <img class="imgLogo1" src="../logos/red.png"> </td> <td>4v - 2d</td>
-            	</tr>
+                    <td> <h1>3</h1> </td> <td> <img class="imgLogo1" src="../logos/lib.png"> </td> <td>4v - 2d</td>
+                </tr>
 
                 <tr>
-                    <td> <h1>3</h1> </td> <td> <img class="imgLogo1" src="../logos/lib.png"> </td> <td>4v - 2d</td>
+                    <td> <h1>4</h1> </td> <td> <img class="imgLogo1" src="../logos/red.png"> </td> <td>4v - 3d</td>
                 </tr>
 
             	<tr>
@@ -55,7 +55,7 @@ function cblol()
                 </tr>
 
             	<tr>
-            		<td> <h1>10</h1> </td> <td> <img class="imgLogo1" src="../logos/fla.png"> </td> <td>1v - 5d</td>
+            		<td> <h1>8</h1> </td> <td> <img class="imgLogo1" src="../logos/fla.png"> </td> <td>2v - 5d</td>
             	</tr>
 
 
