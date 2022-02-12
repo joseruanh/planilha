@@ -13,6 +13,8 @@ function cblol()
     let a = window.document.getElementById("res");
     a.innerHTML = `
     <br>
+	<p><strong>Classificação CBLOL</strong></p>
+	<br>
     <table class="classificacao">
 
 
@@ -68,6 +70,8 @@ function bolao()
     let a = window.document.getElementById("res");
     a.innerHTML = `
     <br>
+	<p><strong>Classificação do Bolão</strong></p>
+	<br>
     <table class="tabelaBOLAO">
 			<tr>
 				<td><h1>${primeiro.posicao}</h1></td> <td>${primeiro.nome}</td> <td>${primeiro.pontos} pontos</td>
