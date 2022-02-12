@@ -283,6 +283,16 @@ function planilha6()
 
 function planilha7()
 {
+    let pickles = {pt1: 'RNG', pt2: 'RED', pt3: 'FUR', pt4: 'LLL', pt5: 'KBM', pontos:'0 pontos'};
+    let ruanh = {pt1: 'ITZ', pt2: 'RED', pt3: 'FUR', pt4: 'PNG', pt5: 'KBM', pontos:'0 pontos'};
+    let relampago = {pt1: 'RNG', pt2: 'RED', pt3: 'FUR', pt4: 'LLL', pt5: 'KBM', pontos:'0 pontos'};
+    let victor = {pt1: 'RNG', pt2: 'RED', pt3: 'FUR', pt4: 'LLL', pt5: 'KBM', pontos:'0 pontos'};
+    let jean = {pt1: 'RNG', pt2: 'RED', pt3: 'FUR', pt4: 'LLL', pt5: 'KBM', pontos:'0 pontos'};
+    let brener = {pt1: 'RNG', pt2: 'RED', pt3: 'FUR', pt4: 'PNG', pt5: 'KBM', pontos:'0 pontos'};
+    let tony = {pt1: 'RNG', pt2: 'RED', pt3: 'FUR', pt4: 'PNG', pt5: 'KBM', pontos:'0 pontos'};
+    let kennyd = {pt1: 'ITZ', pt2: 'RED', pt3: 'FUR', pt4: 'PNG', pt5: 'KBM', pontos:'0 pontos'};
+
+
     let a = window.document.getElementById("res")
     a.innerHTML = `
     <br>
@@ -291,35 +301,35 @@ function planilha7()
 
             <table id="planilha">
             <tr>
-                <td> <strong> Pickles </strong> <td>pt1</td> <td>pt2</td> <td>pt3</td> <td>pt4</td> <td>pt5</td> <td> <strong> 0 pontos </strong> </td>
+                <td> <strong> Pickles </strong> <td>${pickles.pt1}</td> <td>${pickles.pt2}</td> <td>${pickles.pt3}</td> <td>${pickles.pt4}</td> <td>${pickles.pt5}</td> <td> <strong> ${pickles.pontos} </strong> </td>
             </tr>
 
             <tr>
-                <td> <strong> Ruanh </strong> <td>ITZ</td> <td>RED</td> <td>FUR</td> <td>PNG</td> <td>KBM</td> <td> <strong> 0 pontos </strong> </td>
+                <td> <strong> Ruanh </strong> <td>${ruanh.pt1}</td> <td>${ruanh.pt2}</td> <td>${ruanh.pt3}</td> <td>${ruanh.pt4}</td> <td>${ruanh.pt5}</td> <td> <strong> ${ruanh.pontos} </strong> </td>
             </tr>
 
             <tr>
-                <td> <strong> Relâmpago </strong> <td>pt1</td> <td>pt2</td> <td>pt3</td> <td>pt4</td> <td>pt5</td> <td> <strong> 0 pontos </strong> </td>
+                <td> <strong> Relâmpago </strong> <td>${relampago.pt1}</td> <td>${relampago.pt2}</td> <td>${relampago.pt3}</td> <td>${relampago.pt4}</td> <td>${relampago.pt5}</td> <td> <strong> ${relampago.pontos} </strong> </td>
             </tr>
 
             <tr>
-                <td> <strong> Victor </strong> <td>pt1</td> <td>pt2</td> <td>pt3</td> <td>pt4</td> <td>pt5</td> <td> <strong> 0 pontos </strong> </td>
+                <td> <strong> Victor </strong> <td>${victor.pt1}</td> <td>${victor.pt2}</td> <td>${victor.pt3}</td> <td>${victor.pt4}</td> <td>${victor.pt5}</td> <td> <strong> ${victor.pontos} </strong> </td>
             </tr>
 
             <tr>
-                <td> <strong> Jean </strong> <td>pt1</td> <td>pt2</td> <td>pt3</td> <td>pt4</td> <td>pt5</td> <td> <strong> 0 pontos </strong> </td>
+                <td> <strong> Jean </strong> <td>${jean.pt1}</td> <td>${jean.pt2}</td> <td>${jean.pt3}</td> <td>${jean.pt4}</td> <td>${jean.pt5}</td> <td> <strong> ${jean.pontos} </strong> </td>
             </tr>
 
             <tr>
-                <td> <strong> Brener </strong> <td>pt1</td> <td>pt2</td> <td>pt3</td> <td>pt4</td> <td>pt5</td> <td> <strong> 0 pontos </strong> </td>
+                <td> <strong> Brener </strong> <td>${brener.pt1}</td> <td>${brener.pt2}</td> <td>${brener.pt3}</td> <td>${brener.pt4}</td> <td>${brener.pt5}</td> <td> <strong> ${brener.pontos} </strong> </td>
             </tr>
 
             <tr>
-                <td> <strong> Tony </strong> <td>pt1</td> <td>pt2</td> <td>pt3</td> <td>pt4</td> <td>pt5</td> <td> <strong> 0 pontos </strong> </td>
+                <td> <strong> Tony </strong> <td>${tony.pt1}</td> <td>${tony.pt2}</td> <td>${tony.pt3}</td> <td>${tony.pt4}</td> <td>${tony.pt5}</td> <td> <strong> ${tony.pontos} </strong> </td>
             </tr>
 
             <tr>
-                <td> <strong> Kennyd </strong> <td>ITZ</td> <td>RED</td> <td>FUR</td> <td>PNG</td> <td>KBM</td> <td> <strong> 0 pontos </strong> </td>
+                <td> <strong> Kennyd </strong> <td>${kennyd.pt1}</td> <td>${kennyd.pt2}</td> <td>${kennyd.pt3}</td> <td>${kennyd.pt4}</td> <td>${kennyd.pt5}</td> <td> <strong> ${kennyd.pontos} </strong> </td>
             </tr>
 
             
