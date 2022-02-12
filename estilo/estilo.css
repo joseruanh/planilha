@@ -29,13 +29,14 @@ header
     padding: 10px;
     border-bottom: 1px solid var(--cor2);
     background: var(--cor1);
-    font-size: 15px;
+    font-size: 12px;
 }
 
 a.aLogo
 {
     text-decoration: none;
     font-weight: bold;
+    font-size: 18px;
 }
 a.aLogo:hover
 {
