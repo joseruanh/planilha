@@ -1,11 +1,11 @@
 function planilha8()
 {
     let pickles = {pt1: 'pt1', pt2: 'pt2', pt3: 'pt3', pt4: 'pt4', pt5: 'pt5', pontos:'0 pontos'};
-    let ruanh = {pt1: 'pt1', pt2: 'pt2', pt3: 'pt3', pt4: 'pt4', pt5: 'pt5', pontos:'0 pontos'};
-    let relampago = {pt1: 'pt1', pt2: 'pt2', pt3: 'pt3', pt4: 'pt4', pt5: 'pt5', pontos:'0 pontos'};
+    let ruanh = {pt1: 'LIB', pt2: 'FUR', pt3: 'LLL', pt4: 'RED', pt5: 'PNG', pontos:'0 pontos'};
+    let relampago = {pt1: 'LIB', pt2: 'FUR', pt3: 'LLL', pt4: 'RED', pt5: 'PNG', pontos:'0 pontos'};
     let victor = {pt1: 'pt1', pt2: 'pt2', pt3: 'pt3', pt4: 'pt4', pt5: 'pt5', pontos:'0 pontos'};
     let jean = {pt1: 'pt1', pt2: 'pt2', pt3: 'pt3', pt4: 'pt4', pt5: 'pt5', pontos:'0 pontos'};
-    let brener = {pt1: 'pt1', pt2: 'pt2', pt3: 'pt3', pt4: 'pt4', pt5: 'pt5', pontos:'0 pontos'};
+    let brener = {pt1: 'FLA', pt2: 'FUR', pt3: 'LLL', pt4: 'RED', pt5: 'RNG', pontos:'0 pontos'};
     let tony = {pt1: 'pt1', pt2: 'pt2', pt3: 'pt3', pt4: 'pt4', pt5: 'pt5', pontos:'0 pontos'};
     let kennyd = {pt1: 'pt1', pt2: 'pt2', pt3: 'pt3', pt4: 'pt4', pt5: 'pt5', pontos:'0 pontos'};
 
