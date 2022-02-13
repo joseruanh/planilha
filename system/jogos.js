@@ -22,7 +22,7 @@ function jogo8()
             </tr>
 
             <tr>
-                <td> <img class="imgLogo" src="../logos/red.png"> </td><td>x</td><td> <img class="imgLogo" src="../logos/itz.png"> </td>
+                <td> <img class="imgLogo" src="../logos/red.png"> </td><td>1 - 0</td><td> <img class="imgLogo" src="../logos/itz.png"> </td>
             </tr>
 
             <tr>
