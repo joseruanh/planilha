@@ -91,7 +91,7 @@ div.noticia
     max-width: 100%;
     margin: 25px 5px auto 5px;
     background: rgba(255, 255, 255, 0.083);
-    padding: 15px 5px 15px 5px;
+    padding: 15px;
     border-radius: 10px;
     overflow: hidden;
 }
