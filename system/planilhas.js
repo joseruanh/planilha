@@ -3,10 +3,10 @@ function planilha8()
     let pickles = {pt1: 'LIB', pt2: 'KBM', pt3: 'LLL', pt4: 'RED', pt5: 'PNG', pontos:'0 pontos'};
     let ruanh = {pt1: 'LIB', pt2: 'FUR', pt3: 'LLL', pt4: 'RED', pt5: 'PNG', pontos:'0 pontos'};
     let relampago = {pt1: 'LIB', pt2: 'FUR', pt3: 'LLL', pt4: 'RED', pt5: 'PNG', pontos:'0 pontos'};
-    let victor = {pt1: 'pt1', pt2: 'pt2', pt3: 'pt3', pt4: 'pt4', pt5: 'pt5', pontos:'0 pontos'};
+    let victor = {pt1: 'NA', pt2: 'KBM', pt3: 'LLL', pt4: 'RED', pt5: 'RNG', pontos:'0 pontos'};
     let jean = {pt1: 'LIB', pt2: 'KBM', pt3: 'LLL', pt4: 'RED', pt5: 'PNG', pontos:'0 pontos'};
     let brener = {pt1: 'FLA', pt2: 'FUR', pt3: 'LLL', pt4: 'RED', pt5: 'RNG', pontos:'0 pontos'};
-    let tony = {pt1: 'pt1', pt2: 'pt2', pt3: 'pt3', pt4: 'pt4', pt5: 'pt5', pontos:'0 pontos'};
+    let tony = {pt1: 'NA', pt2: 'pt2', pt3: 'pt3', pt4: 'pt4', pt5: 'pt5', pontos:'0 pontos'};
     let kennyd = {pt1: 'FLA', pt2: 'FUR', pt3: 'LLL', pt4: 'RED', pt5: 'PNG', pontos:'0 pontos'};
 
 
@@ -30,7 +30,7 @@ function planilha8()
             </tr>
 
             <tr>
-                <td> <strong> Victor </strong> <td>${victor.pt1}</td> <td>${victor.pt2}</td> <td>${victor.pt3}</td> <td>${victor.pt4}</td> <td>${victor.pt5}</td> <td> <strong> ${victor.pontos} </strong> </td>
+                <td> <strong> Victor </strong> <td id="loss">${victor.pt1}</td> <td>${victor.pt2}</td> <td>${victor.pt3}</td> <td>${victor.pt4}</td> <td>${victor.pt5}</td> <td> <strong> ${victor.pontos} </strong> </td>
             </tr>
 
             <tr>
@@ -42,7 +42,7 @@ function planilha8()
             </tr>
 
             <tr>
-                <td> <strong> Tony </strong> <td>${tony.pt1}</td> <td>${tony.pt2}</td> <td>${tony.pt3}</td> <td>${tony.pt4}</td> <td>${tony.pt5}</td> <td> <strong> ${tony.pontos} </strong> </td>
+                <td> <strong> Tony </strong> <td id="loss">${tony.pt1}</td> <td>${tony.pt2}</td> <td>${tony.pt3}</td> <td>${tony.pt4}</td> <td>${tony.pt5}</td> <td> <strong> ${tony.pontos} </strong> </td>
             </tr>
 
             <tr>
