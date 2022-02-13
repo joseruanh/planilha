@@ -1,3 +1,39 @@
+function jogo8()
+{
+    let a = window.document.getElementById("res")
+
+    a.innerHTML = `
+    <br>
+    <p><strong>Rodada 8</strong></p>
+            <p class="pData">13/02</p>
+    <br>
+    
+    <table id="tbRodada1" class="resultados">
+            <tr>
+                <td> <img class="imgLogo" src="../logos/lib.png"> </td><td>x</td><td> <img class="imgLogo" src="../logos/fla.png"> </td>
+            </tr>
+
+            <tr>
+                <td> <img class="imgLogo" src="../logos/kbm.png"> </td><td>x</td><td> <img class="imgLogo" src="../logos/fur.png"> </td>
+            </tr>
+
+            <tr>
+                <td> <img class="imgLogo" src="../logos/net.png"> </td><td>x</td><td> <img class="imgLogo" src="../logos/lll.png"> </td>
+            </tr>
+
+            <tr>
+                <td> <img class="imgLogo" src="../logos/red.png"> </td><td>x</td><td> <img class="imgLogo" src="../logos/itz.png"> </td>
+            </tr>
+
+            <tr>
+                <td> <img class="imgLogo" src="../logos/rng.png"> </td><td>x</td><td> <img class="imgLogo" src="../logos/png.png"> </td>
+            </tr>           
+        </table>
+
+            <br><br><br>
+    `
+}
+
 function jogo7()
 {
     let a = window.document.getElementById("res")
