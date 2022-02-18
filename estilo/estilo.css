@@ -3,10 +3,13 @@
 {
     font-family: raleway;
     src: url('../fonts/raleway.ttf') format('truetype');
+
+    font-family: gotham;
+    src: url('../fonts/gotham.ttf') format('truetype');
 }
 
 
-*{margin: 0; padding: 0; color: white; font-family: "raleway";}
+*{margin: 0; padding: 0; color: white; font-family: "gotham";}
 
 ::-webkit-scrollbar{width: 3px;}
 ::-webkit-scrollbar-track{background: transparent;}
