@@ -18,7 +18,7 @@ function jogo9()
             </tr>
 
             <tr>
-                <td> <img class="imgLogo" src="../logos/fla.png"> </td><td>x</td><td> <img class="imgLogo" src="../logos/kbm.png"> </td>
+                <td> <img class="imgLogo" src="../logos/fla.png"> </td><td>0 - 1</td><td> <img class="imgLogo" src="../logos/kbm.png"> </td>
             </tr>
 
             <tr>
