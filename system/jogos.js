@@ -4,7 +4,7 @@ function jogo9()
 
     a.innerHTML = `
     <br>
-    <p><strong>Rodada 8</strong></p>
+    <p><strong>Rodada 9</strong></p>
             <p class="pData">19/02</p>
     <br>
     
