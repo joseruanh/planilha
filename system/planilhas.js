@@ -4,7 +4,7 @@ function planilha9()
     let ruanh = {pt1: 'FUR', pt2: 'PNG', pt3: 'KBM', pt4: 'LLL', pt5: 'LIB', pontos:'0 pontos'};
     let relampago = {pt1: 'FUR', pt2: 'RED', pt3: 'KBM', pt4: 'LLL', pt5: 'LIB', pontos:'0 pontos'};
     let victor = {pt1: 'FUR', pt2: 'RED', pt3: 'KBM', pt4: 'LLL', pt5: 'LIB', pontos:'0 pontos'};
-    let jean = {pt1: 'pt1', pt2: 'pt2', pt3: 'pt3', pt4: 'pt4', pt5: 'pt5', pontos:'0 pontos'};
+    let jean = {pt1: 'FUR', pt2: 'RED', pt3: 'KBM', pt4: 'LLL', pt5: 'LIB', pontos:'0 pontos'};
     let brener = {pt1: 'NET', pt2: 'RED', pt3: 'FLA', pt4: 'LLL', pt5: 'ITZ', pontos:'0 pontos'};
     let tony = {pt1: 'FUR', pt2: 'PNG', pt3: 'KBM', pt4: 'LLL', pt5: 'LIB', pontos:'0 pontos'};
     let kennyd = {pt1: 'FUR', pt2: 'PNG', pt3: 'KBM', pt4: 'LLL', pt5: 'LIB', pontos:'0 pontos'};
