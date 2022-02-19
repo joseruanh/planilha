@@ -1,10 +1,10 @@
-var primeiro = {nome: 'Pickles', pontos: 28, posicao: 1};
-var segundo = {nome: 'Jean', pontos: 28, posicao: 1};
-var terceiro = {nome: 'Relâmpago', pontos: 28, posicao: 2};
-var quarto = {nome:'Ruanh', pontos: 26, posicao: 3};
-var quinto = {nome: 'Brener', pontos: 25, posicao: 4};
-var sexto = {nome: 'Kennyd', pontos: 23, posicao: 5};
-var setimo = {nome: 'Victor', pontos: 23, posicao: 4};
+var primeiro = {nome: 'Pickles', pontos: 29, posicao: 1};
+var segundo = {nome: 'Jean', pontos: 29, posicao: 1};
+var terceiro = {nome: 'Relâmpago', pontos: 29, posicao: 1};
+var quarto = {nome:'Ruanh', pontos: 26, posicao: 2};
+var quinto = {nome: 'Brener', pontos: 26, posicao: 2};
+var sexto = {nome: 'Victor', pontos: 24, posicao: 3};
+var setimo = {nome: 'Kennyd', pontos: 23, posicao: 4};
 var oitavo = {nome: 'Tony', pontos: 19, posicao: 5};
 
 
@@ -19,7 +19,7 @@ function cblol()
 
 
             	<tr>
-                    <td> <h1>1</h1> </td> <td> <img class="imgLogo1" src="../logos/fur.png"> </td> <td>7v - 1d</td>
+                    <td> <h1>1</h1> </td> <td> <img class="imgLogo1" src="../logos/fur.png"> </td> <td>7v - 2d</td>
                 </tr>
 
                 <tr>
@@ -27,15 +27,15 @@ function cblol()
                 </tr>
 
                 <tr>
-                    <td> <h1>3</h1> </td> <td> <img class="imgLogo1" src="../logos/lib.png"> </td> <td>5v - 3d</td>
+                    <td> <h1>3</h1> </td> <td> <img class="imgLogo1" src="../logos/red.png"> </td> <td>6v - 3d</td>
                 </tr>
 
                 <tr>
-                    <td> <h1>3</h1> </td> <td> <img class="imgLogo1" src="../logos/lll.png"> </td> <td>5v - 3d</td>
+                    <td> <h1>4</h1> </td> <td> <img class="imgLogo1" src="../logos/lib.png"> </td> <td>5v - 3d</td>
                 </tr>
 
                 <tr>
-                    <td> <h1>3</h1> </td> <td> <img class="imgLogo1" src="../logos/red.png"> </td> <td>5v - 3d</td>
+                    <td> <h1>4</h1> </td> <td> <img class="imgLogo1" src="../logos/lll.png"> </td> <td>5v - 3d</td>
                 </tr>
 
             	<tr>
@@ -43,7 +43,7 @@ function cblol()
             	</tr>
 
                 <tr>
-            		<td> <h1>7</h1> </td> <td> <img class="imgLogo1" src="../logos/png.png"> </td> <td>3v - 5d</td>
+            		<td> <h1>7</h1> </td> <td> <img class="imgLogo1" src="../logos/png.png"> </td> <td>3v - 6d</td>
             	</tr>
 
                 <tr>
