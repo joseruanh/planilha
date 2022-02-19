@@ -1,11 +1,11 @@
-var primeiro = {nome: 'Pickles', pontos: 31, posicao: 1};
-var segundo = {nome: 'Jean', pontos: 31, posicao: 1};
-var terceiro = {nome: 'Relâmpago', pontos: 31, posicao: 1};
-var quarto = {nome:'Ruanh', pontos: 28, posicao: 2};
+var primeiro = {nome: 'Pickles', pontos: 32, posicao: 1};
+var segundo = {nome: 'Jean', pontos: 32, posicao: 1};
+var terceiro = {nome: 'Relâmpago', pontos: 32, posicao: 1};
+var quarto = {nome:'Ruanh', pontos: 29, posicao: 2};
 var quinto = {nome: 'Brener', pontos: 27, posicao: 2};
-var sexto = {nome: 'Victor', pontos: 26, posicao: 3};
-var setimo = {nome: 'Kennyd', pontos: 25, posicao: 4};
-var oitavo = {nome: 'Tony', pontos: 21, posicao: 5};
+var sexto = {nome: 'Victor', pontos: 27, posicao: 3};
+var setimo = {nome: 'Kennyd', pontos: 26, posicao: 4};
+var oitavo = {nome: 'Tony', pontos: 22, posicao: 5};
 
 
 function cblol()
@@ -35,7 +35,7 @@ function cblol()
                 </tr>
 
                 <tr>
-                    <td> <h1>5</h1> </td> <td> <img class="imgLogo1" src="../logos/lib.png"> </td> <td>5v - 3d</td>
+                    <td> <h1>3</h1> </td> <td> <img class="imgLogo1" src="../logos/lib.png"> </td> <td>6v - 3d</td>
                 </tr>
 
             	<tr>
@@ -47,15 +47,15 @@ function cblol()
             	</tr>
 
                 <tr>
-                    <td> <h1>8</h1> </td> <td> <img class="imgLogo1" src="../logos/itz.png"> </td> <td>2v - 6d</td>
+                    <td> <h1>8</h1> </td> <td> <img class="imgLogo1" src="../logos/itz.png"> </td> <td>2v - 7d</td>
                 </tr>
 
                 <tr>
-                    <td> <h1>9</h1> </td> <td> <img class="imgLogo1" src="../logos/rng.png"> </td> <td>2v - 7d</td>
+                    <td> <h1>8</h1> </td> <td> <img class="imgLogo1" src="../logos/rng.png"> </td> <td>2v - 7d</td>
                 </tr>
 
             	<tr>
-            		<td> <h1>9</h1> </td> <td> <img class="imgLogo1" src="../logos/fla.png"> </td> <td>2v - 7d</td>
+            		<td> <h1>8</h1> </td> <td> <img class="imgLogo1" src="../logos/fla.png"> </td> <td>2v - 7d</td>
             	</tr>
 
 

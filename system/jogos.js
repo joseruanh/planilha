@@ -26,7 +26,7 @@ function jogo9()
             </tr>
 
             <tr>
-                <td> <img class="imgLogo" src="../logos/itz.png"> </td><td>x</td><td> <img class="imgLogo" src="../logos/lib.png"> </td>
+                <td> <img class="imgLogo" src="../logos/itz.png"> </td><td>0 - 1</td><td> <img class="imgLogo" src="../logos/lib.png"> </td>
             </tr>           
         </table>
 
