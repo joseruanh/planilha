@@ -22,11 +22,11 @@ function jogo10()
             </tr>
 
             <tr>
-                <td> <img class="imgLogo" src="../logos/fla.png"> </td><td>x</td><td> <img class="imgLogo" src="../logos/net.png"> </td>
+                <td> <img class="imgLogo" src="../logos/fla.png"> </td><td>0 - 1</td><td> <img class="imgLogo" src="../logos/net.png"> </td>
             </tr>
 
             <tr>
-                <td> <img class="imgLogo" src="../logos/fur.png"> </td><td>x</td><td> <img class="imgLogo" src="../logos/lll.png"> </td>
+                <td> <img class="imgLogo" src="../logos/fur.png"> </td><td>0 - 1</td><td> <img class="imgLogo" src="../logos/lll.png"> </td>
             </tr>           
         </table>
 
