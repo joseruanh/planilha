@@ -13,7 +13,7 @@ function planilha10()
     let a = window.document.getElementById("res")
     a.innerHTML = `
     <br>
-    <p><strong>RODADA 8</strong></p>
+    <p><strong>RODADA 10</strong></p>
             <br>
 
             <table id="planilha">
