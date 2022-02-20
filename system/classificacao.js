@@ -1,11 +1,11 @@
-var primeiro = {nome: 'Pickles', pontos: 32, posicao: 1};
-var segundo = {nome: 'Jean', pontos: 32, posicao: 1};
-var terceiro = {nome: 'Relâmpago', pontos: 32, posicao: 1};
-var quarto = {nome:'Ruanh', pontos: 29, posicao: 2};
-var quinto = {nome: 'Brener', pontos: 27, posicao: 2};
-var sexto = {nome: 'Victor', pontos: 27, posicao: 3};
-var setimo = {nome: 'Kennyd', pontos: 26, posicao: 4};
-var oitavo = {nome: 'Tony', pontos: 22, posicao: 5};
+var primeiro = {nome: 'Pickles', pontos: 33, posicao: 1};
+var segundo = {nome: 'Jean', pontos: 33, posicao: 1};
+var terceiro = {nome: 'Relâmpago', pontos: 33, posicao: 1};
+var quarto = {nome:'Ruanh', pontos: 30, posicao: 2};
+var quinto = {nome: 'Victor', pontos: 28, posicao: 3};
+var sexto = {nome: 'Brener', pontos: 27, posicao: 4};
+var setimo = {nome: 'Kennyd', pontos: 27, posicao: 4};
+var oitavo = {nome: 'Tony', pontos: 23, posicao: 5};
 
 
 function cblol()
@@ -27,15 +27,15 @@ function cblol()
                 </tr>
 
                 <tr>
-                    <td> <h1>3</h1> </td> <td> <img class="imgLogo1" src="../logos/red.png"> </td> <td>6v - 3d</td>
+                    <td> <h1>3</h1> </td> <td> <img class="imgLogo1" src="../logos/red.png"> </td> <td>7v - 3d</td>
                 </tr>
 
                 <tr>
-                    <td> <h1>3</h1> </td> <td> <img class="imgLogo1" src="../logos/lll.png"> </td> <td>6v - 3d</td>
+                    <td> <h1>4</h1> </td> <td> <img class="imgLogo1" src="../logos/lll.png"> </td> <td>6v - 3d</td>
                 </tr>
 
                 <tr>
-                    <td> <h1>3</h1> </td> <td> <img class="imgLogo1" src="../logos/lib.png"> </td> <td>6v - 3d</td>
+                    <td> <h1>4</h1> </td> <td> <img class="imgLogo1" src="../logos/lib.png"> </td> <td>6v - 3d</td>
                 </tr>
 
             	<tr>
@@ -50,13 +50,13 @@ function cblol()
                     <td> <h1>8</h1> </td> <td> <img class="imgLogo1" src="../logos/itz.png"> </td> <td>2v - 7d</td>
                 </tr>
 
-                <tr>
-                    <td> <h1>8</h1> </td> <td> <img class="imgLogo1" src="../logos/rng.png"> </td> <td>2v - 7d</td>
-                </tr>
-
             	<tr>
             		<td> <h1>8</h1> </td> <td> <img class="imgLogo1" src="../logos/fla.png"> </td> <td>2v - 7d</td>
             	</tr>
+
+				<tr>
+                    <td> <h1>10</h1> </td> <td> <img class="imgLogo1" src="../logos/rng.png"> </td> <td>2v - 8d</td>
+                </tr>
 
 
             	</table>
