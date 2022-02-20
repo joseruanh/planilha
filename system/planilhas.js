@@ -1,13 +1,13 @@
 function planilha10()
 {
-    let pickles = {pt1: 'pt1', pt2: 'pt2', pt3: 'pt3', pt4: 'pt4', pt5: 'pt5', pontos:'0 pontos'};
-    let ruanh = {pt1: 'pt1', pt2: 'pt2', pt3: 'pt3', pt4: 'pt4', pt5: 'pt5', pontos:'0 pontos'};
-    let relampago = {pt1: 'pt1', pt2: 'pt2', pt3: 'pt3', pt4: 'pt4', pt5: 'pt5', pontos:'0 pontos'};
-    let victor = {pt1: 'pt1', pt2: 'pt2', pt3: 'pt3', pt4: 'pt4', pt5: 'pt5', pontos:'0 pontos'};
-    let jean = {pt1: 'pt1', pt2: 'pt2', pt3: 'pt3', pt4: 'pt4', pt5: 'pt5', pontos:'0 pontos'};
-    let brener = {pt1: 'pt1', pt2: 'pt2', pt3: 'pt3', pt4: 'pt4', pt5: 'pt5', pontos:'0 pontos'};
-    let tony = {pt1: 'pt1', pt2: 'pt2', pt3: 'pt3', pt4: 'pt4', pt5: 'pt5', pontos:'0 pontos'};
-    let kennyd = {pt1: 'pt1', pt2: 'pt2', pt3: 'pt3', pt4: 'pt4', pt5: 'pt5', pontos:'0 pontos'};
+    let pickles = {pt1: 'RED', pt2: 'KBM', pt3: 'LIB', pt4: 'NET', pt5: 'FUR', pontos:'0 pontos'};
+    let ruanh = {pt1: 'RED', pt2: 'KBM', pt3: 'LIB', pt4: 'NET', pt5: 'FUR', pontos:'0 pontos'};
+    let relampago = {pt1: 'RED', pt2: 'KBM', pt3: 'LIB', pt4: 'NET', pt5: 'LLL', pontos:'0 pontos'};
+    let victor = {pt1: 'RED', pt2: 'KBM', pt3: 'LIB', pt4: 'NET', pt5: 'FUR', pontos:'0 pontos'};
+    let jean = {pt1: 'RED', pt2: 'KBM', pt3: 'LIB', pt4: 'NET', pt5: 'FUR', pontos:'0 pontos'};
+    let brener = {pt1: 'RNG', pt2: 'KBM', pt3: 'PNG', pt4: 'FLA', pt5: 'LLL', pontos:'0 pontos'};
+    let tony = {pt1: 'RED', pt2: 'KBM', pt3: 'PNG', pt4: 'NET', pt5: 'FUR', pontos:'0 pontos'};
+    let kennyd = {pt1: 'RED', pt2: 'KBM', pt3: 'LIB', pt4: 'NET', pt5: 'FUR', pontos:'0 pontos'};
 
 
     let a = window.document.getElementById("res")
