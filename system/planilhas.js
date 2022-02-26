@@ -1,13 +1,13 @@
 function planilha11()
 {
-    let pickles = {pt1: 'pt1', pt2: 'pt2', pt3: 'pt3', pt4: 'pt4', pt5: 'pt5', pontos:'0 pontos'};
+    let pickles = {pt1: 'FUR', pt2: 'LLL', pt3: 'LIB', pt4: 'KBM', pt5: 'NET', pontos:'0 pontos'};
     let ruanh = {pt1: 'FUR', pt2: 'LLL', pt3: 'LIB', pt4: 'KBM', pt5: 'NET', pontos:'0 pontos'};
-    let relampago = {pt1: 'pt1', pt2: 'pt2', pt3: 'pt3', pt4: 'pt4', pt5: 'pt5', pontos:'0 pontos'};
-    let victor = {pt1: 'pt1', pt2: 'pt2', pt3: 'pt3', pt4: 'pt4', pt5: 'pt5', pontos:'0 pontos'};
-    let jean = {pt1: 'pt1', pt2: 'pt2', pt3: 'pt3', pt4: 'pt4', pt5: 'pt5', pontos:'0 pontos'};
-    let brener = {pt1: 'pt1', pt2: 'pt2', pt3: 'pt3', pt4: 'pt4', pt5: 'pt5', pontos:'0 pontos'};
-    let tony = {pt1: 'pt1', pt2: 'pt2', pt3: 'pt3', pt4: 'pt4', pt5: 'pt5', pontos:'0 pontos'};
-    let kennyd = {pt1: 'pt1', pt2: 'pt2', pt3: 'pt3', pt4: 'pt4', pt5: 'pt5', pontos:'0 pontos'};
+    let relampago = {pt1: 'FUR', pt2: 'LLL', pt3: 'LIB', pt4: 'KBM', pt5: 'NET', pontos:'0 pontos'};
+    let victor = {pt1: 'FUR', pt2: 'LLL', pt3: 'LIB', pt4: 'KBM', pt5: 'NET', pontos:'0 pontos'};
+    let jean = {pt1: 'FUR', pt2: 'LLL', pt3: 'LIB', pt4: 'KBM', pt5: 'NET', pontos:'0 pontos'};
+    let brener = {pt1: 'FUR', pt2: 'RED', pt3: 'RNG', pt4: 'PNG', pt5: 'NET', pontos:'0 pontos'};
+    let tony = {pt1: 'FUR', pt2: 'LLL', pt3: 'RNG', pt4: 'PNG', pt5: 'NET', pontos:'0 pontos'};
+    let kennyd = {pt1: 'NA', pt2: 'LLL', pt3: 'LIB', pt4: 'KBM', pt5: 'NET', pontos:'0 pontos'};
 
 
     let a = window.document.getElementById("res")
@@ -46,7 +46,7 @@ function planilha11()
             </tr>
 
             <tr>
-                <td class="nomes"> <strong> Kennyd </strong> <td>${kennyd.pt1}</td> <td>${kennyd.pt2}</td> <td>${kennyd.pt3}</td> <td>${kennyd.pt4}</td> <td>${kennyd.pt5}</td> <td class="nomes"> <strong> ${kennyd.pontos} </strong> </td>
+                <td class="nomes"> <strong> Kennyd </strong> <td id="loss">${kennyd.pt1}</td> <td>${kennyd.pt2}</td> <td>${kennyd.pt3}</td> <td>${kennyd.pt4}</td> <td>${kennyd.pt5}</td> <td class="nomes"> <strong> ${kennyd.pontos} </strong> </td>
             </tr>
 
             
