@@ -14,7 +14,7 @@ function jogo11()
             </tr>
 
             <tr>
-                <td> <img class="imgLogo" src="../logos/lll.png"> </td><td>x</td><td> <img class="imgLogo" src="../logos/red.png"> </td>
+                <td> <img class="imgLogo" src="../logos/lll.png"> </td><td>0 - 1</td><td> <img class="imgLogo" src="../logos/red.png"> </td>
             </tr>
 
             <tr>
