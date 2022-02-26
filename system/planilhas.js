@@ -1,12 +1,12 @@
 function planilha11()
 {
-    let pickles = {pt1: 'FUR', pt2: 'LLL', pt3: 'LIB', pt4: 'KBM', pt5: 'NET', pontos:'0 pontos'};
-    let ruanh = {pt1: 'FUR', pt2: 'LLL', pt3: 'LIB', pt4: 'KBM', pt5: 'NET', pontos:'0 pontos'};
-    let relampago = {pt1: 'FUR', pt2: 'LLL', pt3: 'LIB', pt4: 'KBM', pt5: 'NET', pontos:'0 pontos'};
-    let victor = {pt1: 'FUR', pt2: 'LLL', pt3: 'LIB', pt4: 'KBM', pt5: 'NET', pontos:'0 pontos'};
-    let jean = {pt1: 'FUR', pt2: 'LLL', pt3: 'LIB', pt4: 'KBM', pt5: 'NET', pontos:'0 pontos'};
-    let brener = {pt1: 'FUR', pt2: 'RED', pt3: 'RNG', pt4: 'PNG', pt5: 'NET', pontos:'0 pontos'};
-    let tony = {pt1: 'FUR', pt2: 'LLL', pt3: 'RNG', pt4: 'PNG', pt5: 'NET', pontos:'0 pontos'};
+    let pickles = {pt1: 'FUR', pt2: 'LLL', pt3: 'LIB', pt4: 'KBM', pt5: 'NET', pontos:'1 ponto'};
+    let ruanh = {pt1: 'FUR', pt2: 'LLL', pt3: 'LIB', pt4: 'KBM', pt5: 'NET', pontos:'1 ponto'};
+    let relampago = {pt1: 'FUR', pt2: 'LLL', pt3: 'LIB', pt4: 'KBM', pt5: 'NET', pontos:'1 ponto'};
+    let victor = {pt1: 'FUR', pt2: 'LLL', pt3: 'LIB', pt4: 'KBM', pt5: 'NET', pontos:'1 ponto'};
+    let jean = {pt1: 'FUR', pt2: 'LLL', pt3: 'LIB', pt4: 'KBM', pt5: 'NET', pontos:'1 ponto'};
+    let brener = {pt1: 'FUR', pt2: 'RED', pt3: 'RNG', pt4: 'PNG', pt5: 'NET', pontos:'1 ponto'};
+    let tony = {pt1: 'FUR', pt2: 'LLL', pt3: 'RNG', pt4: 'PNG', pt5: 'NET', pontos:'1 ponto'};
     let kennyd = {pt1: 'NA', pt2: 'LLL', pt3: 'LIB', pt4: 'KBM', pt5: 'NET', pontos:'0 pontos'};
 
 
@@ -18,31 +18,31 @@ function planilha11()
 
             <table id="planilha">
             <tr>
-                <td class="nomes"> <strong> Pickles </strong> <td>${pickles.pt1}</td> <td>${pickles.pt2}</td> <td>${pickles.pt3}</td> <td>${pickles.pt4}</td> <td>${pickles.pt5}</td> <td class="nomes"> <strong> ${pickles.pontos} </strong> </td>
+                <td class="nomes"> <strong> Pickles </strong> <td id="win">${pickles.pt1}</td> <td>${pickles.pt2}</td> <td>${pickles.pt3}</td> <td>${pickles.pt4}</td> <td>${pickles.pt5}</td> <td class="nomes"> <strong> ${pickles.pontos} </strong> </td>
             </tr>
 
             <tr>
-                <td class="nomes"> <strong> Ruanh </strong> <td>${ruanh.pt1}</td> <td>${ruanh.pt2}</td> <td>${ruanh.pt3}</td> <td>${ruanh.pt4}</td> <td>${ruanh.pt5}</td> <td class="nomes"> <strong> ${ruanh.pontos} </strong> </td>
+                <td class="nomes"> <strong> Ruanh </strong> <td id="win">${ruanh.pt1}</td> <td>${ruanh.pt2}</td> <td>${ruanh.pt3}</td> <td>${ruanh.pt4}</td> <td>${ruanh.pt5}</td> <td class="nomes"> <strong> ${ruanh.pontos} </strong> </td>
             </tr>
 
             <tr>
-                <td class="nomes"> <strong> Relâmpago </strong> <td>${relampago.pt1}</td> <td>${relampago.pt2}</td> <td>${relampago.pt3}</td> <td>${relampago.pt4}</td> <td>${relampago.pt5}</td> <td class="nomes"> <strong> ${relampago.pontos} </strong> </td>
+                <td class="nomes"> <strong> Relâmpago </strong> <td id="win">${relampago.pt1}</td> <td>${relampago.pt2}</td> <td>${relampago.pt3}</td> <td>${relampago.pt4}</td> <td>${relampago.pt5}</td> <td class="nomes"> <strong> ${relampago.pontos} </strong> </td>
             </tr>
 
             <tr>
-                <td class="nomes"> <strong> Victor </strong> <td>${victor.pt1}</td> <td>${victor.pt2}</td> <td>${victor.pt3}</td> <td>${victor.pt4}</td> <td>${victor.pt5}</td> <td class="nomes"> <strong> ${victor.pontos} </strong> </td>
+                <td class="nomes"> <strong> Victor </strong> <td id="win">${victor.pt1}</td> <td>${victor.pt2}</td> <td>${victor.pt3}</td> <td>${victor.pt4}</td> <td>${victor.pt5}</td> <td class="nomes"> <strong> ${victor.pontos} </strong> </td>
             </tr>
 
             <tr>
-                <td class="nomes"> <strong> Jean </strong> <td>${jean.pt1}</td> <td>${jean.pt2}</td> <td>${jean.pt3}</td> <td>${jean.pt4}</td> <td>${jean.pt5}</td> <td class="nomes"> <strong> ${jean.pontos} </strong> </td>
+                <td class="nomes"> <strong> Jean </strong> <td id="win">${jean.pt1}</td> <td>${jean.pt2}</td> <td>${jean.pt3}</td> <td>${jean.pt4}</td> <td>${jean.pt5}</td> <td class="nomes"> <strong> ${jean.pontos} </strong> </td>
             </tr>
 
             <tr>
-                <td class="nomes"> <strong> Brener </strong> <td>${brener.pt1}</td> <td>${brener.pt2}</td> <td>${brener.pt3}</td> <td>${brener.pt4}</td> <td>${brener.pt5}</td> <td class="nomes"> <strong> ${brener.pontos} </strong> </td>
+                <td class="nomes"> <strong> Brener </strong> <td id="win">${brener.pt1}</td> <td>${brener.pt2}</td> <td>${brener.pt3}</td> <td>${brener.pt4}</td> <td>${brener.pt5}</td> <td class="nomes"> <strong> ${brener.pontos} </strong> </td>
             </tr>
 
             <tr>
-                <td class="nomes"> <strong> Tony </strong> <td>${tony.pt1}</td> <td>${tony.pt2}</td> <td>${tony.pt3}</td> <td>${tony.pt4}</td> <td>${tony.pt5}</td> <td class="nomes"> <strong> ${tony.pontos} </strong> </td>
+                <td class="nomes"> <strong> Tony </strong> <td id="win">${tony.pt1}</td> <td>${tony.pt2}</td> <td>${tony.pt3}</td> <td>${tony.pt4}</td> <td>${tony.pt5}</td> <td class="nomes"> <strong> ${tony.pontos} </strong> </td>
             </tr>
 
             <tr>
