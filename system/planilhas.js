@@ -1,7 +1,7 @@
 function planilha11()
 {
     let pickles = {pt1: 'pt1', pt2: 'pt2', pt3: 'pt3', pt4: 'pt4', pt5: 'pt5', pontos:'0 pontos'};
-    let ruanh = {pt1: 'pt1', pt2: 'pt2', pt3: 'pt3', pt4: 'pt4', pt5: 'pt5', pontos:'0 pontos'};
+    let ruanh = {pt1: 'FUR', pt2: 'LLL', pt3: 'LIB', pt4: 'KBM', pt5: 'NET', pontos:'0 pontos'};
     let relampago = {pt1: 'pt1', pt2: 'pt2', pt3: 'pt3', pt4: 'pt4', pt5: 'pt5', pontos:'0 pontos'};
     let victor = {pt1: 'pt1', pt2: 'pt2', pt3: 'pt3', pt4: 'pt4', pt5: 'pt5', pontos:'0 pontos'};
     let jean = {pt1: 'pt1', pt2: 'pt2', pt3: 'pt3', pt4: 'pt4', pt5: 'pt5', pontos:'0 pontos'};
