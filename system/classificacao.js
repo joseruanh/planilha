@@ -1,11 +1,11 @@
-var primeiro = {nome: 'Relâmpago', pontos: 38, posicao: 1};
-var segundo = {nome: 'Pickles', pontos: 37, posicao: 2};
-var terceiro = {nome: 'Jean', pontos: 37, posicao: 2};
-var quarto = {nome:'Ruanh', pontos: 34, posicao: 3};
-var quinto = {nome: 'Brener', pontos: 33, posicao: 4};
-var sexto = {nome: 'Victor', pontos: 32, posicao: 5};
-var setimo = {nome: 'Kennyd', pontos: 30, posicao: 6};
-var oitavo = {nome: 'Tony', pontos: 28, posicao: 7};
+var primeiro = {nome: 'Relâmpago', pontos: 42, posicao: 1};
+var segundo = {nome: 'Jean', pontos: 41, posicao: 2};
+var terceiro = {nome: 'Pickles', pontos: 39, posicao: 3};
+var quarto = {nome:'Ruanh', pontos: 38, posicao: 4};
+var quinto = {nome: 'Brener', pontos: 36, posicao: 5};
+var sexto = {nome: 'Kennyd', pontos: 34, posicao: 6};
+var setimo = {nome: 'Victor', pontos: 32, posicao: 7};
+var oitavo = {nome: 'Tony', pontos: 32, posicao: 7};
 
 
 function cblol()
