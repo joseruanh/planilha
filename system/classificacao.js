@@ -1,11 +1,11 @@
-var primeiro = {nome: 'Relâmpago', pontos: 37, posicao: 1};
-var segundo = {nome: 'Pickles', pontos: 36, posicao: 2};
-var terceiro = {nome: 'Jean', pontos: 36, posicao: 2};
-var quarto = {nome:'Ruanh', pontos: 33, posicao: 3};
-var quinto = {nome: 'Victor', pontos: 31, posicao: 4};
-var sexto = {nome: 'Brener', pontos: 30, posicao: 5};
-var setimo = {nome: 'Kennyd', pontos: 29, posicao: 5};
-var oitavo = {nome: 'Tony', pontos: 25, posicao: 6};
+var primeiro = {nome: 'Relâmpago', pontos: 38, posicao: 1};
+var segundo = {nome: 'Pickles', pontos: 37, posicao: 2};
+var terceiro = {nome: 'Jean', pontos: 37, posicao: 2};
+var quarto = {nome:'Ruanh', pontos: 34, posicao: 3};
+var quinto = {nome: 'Brener', pontos: 33, posicao: 4};
+var sexto = {nome: 'Victor', pontos: 32, posicao: 5};
+var setimo = {nome: 'Kennyd', pontos: 30, posicao: 6};
+var oitavo = {nome: 'Tony', pontos: 28, posicao: 7};
 
 
 function cblol()
@@ -27,35 +27,35 @@ function cblol()
                 </tr>
 
                 <tr>
-                    <td> <h1>3</h1> </td> <td> <img class="imgLogo1" src="../logos/kbm.png"> </td> <td>7v - 3d</td>
+                    <td> <h1>3</h1> </td> <td> <img class="imgLogo1" src="../logos/lll.png"> </td> <td>7v - 4d</td>
                 </tr>
 
                 <tr>
-                    <td> <h1>3</h1> </td> <td> <img class="imgLogo1" src="../logos/lib.png"> </td> <td>7v - 3d</td>
+                    <td> <h1>3</h1> </td> <td> <img class="imgLogo1" src="../logos/kbm.png"> </td> <td>7v - 4d</td>
                 </tr>
 
                 <tr>
-                    <td> <h1>5</h1> </td> <td> <img class="imgLogo1" src="../logos/lll.png"> </td> <td>7v - 4d</td>
+                    <td> <h1>3</h1> </td> <td> <img class="imgLogo1" src="../logos/lib.png"> </td> <td>7v - 4d</td>
                 </tr>
 
             	<tr>
-            		<td> <h1>6</h1> </td> <td> <img class="imgLogo1" src="../logos/net.png"> </td> <td>5v - 5d</td>
+            		<td> <h1>6</h1> </td> <td> <img class="imgLogo1" src="../logos/net.png"> </td> <td>6v - 5d</td>
             	</tr>
 
                 <tr>
-            		<td> <h1>7</h1> </td> <td> <img class="imgLogo1" src="../logos/itz.png"> </td> <td>3v - 7d</td>
+            		<td> <h1>7</h1> </td> <td> <img class="imgLogo1" src="../logos/png.png"> </td> <td>4v - 7d</td>
             	</tr>
 
                 <tr>
-                    <td> <h1>7</h1> </td> <td> <img class="imgLogo1" src="../logos/png.png"> </td> <td>3v - 7d</td>
+                    <td> <h1>8</h1> </td> <td> <img class="imgLogo1" src="../logos/rng.png"> </td> <td>3v - 8d</td>
                 </tr>
 
 				<tr>
-                    <td> <h1>8</h1> </td> <td> <img class="imgLogo1" src="../logos/rng.png"> </td> <td>2v - 8d</td>
+                    <td> <h1>8</h1> </td> <td> <img class="imgLogo1" src="../logos/itz.png"> </td> <td>3v - 8d</td>
                 </tr>
 
                 <tr>
-                    <td> <h1>9</h1> </td> <td> <img class="imgLogo1" src="../logos/fla.png"> </td> <td>2v - 9d</td>
+                    <td> <h1>10</h1> </td> <td> <img class="imgLogo1" src="../logos/fla.png"> </td> <td>2v - 9d</td>
                 </tr>
 
 

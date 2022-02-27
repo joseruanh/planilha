@@ -1,3 +1,39 @@
+function jogo12()
+{
+    let a = window.document.getElementById("res")
+
+    a.innerHTML = `
+    <br>
+    <p><strong>Rodada 12</strong></p>
+            <p class="pData">27/02</p>
+    <br>
+    
+    <table id="tbRodada1" class="resultados">
+            <tr>
+                <td> <img class="imgLogo" src="../logos/fla.png"> </td><td>x</td><td> <img class="imgLogo" src="../logos/lll.png"> </td>
+            </tr>
+
+            <tr>
+                <td> <img class="imgLogo" src="../logos/itz.png"> </td><td>x</td><td> <img class="imgLogo" src="../logos/fur.png"> </td>
+            </tr>
+
+            <tr>
+                <td> <img class="imgLogo" src="../logos/png.png"> </td><td>x</td><td> <img class="imgLogo" src="../logos/net.png"> </td>
+            </tr>
+
+            <tr>
+                <td> <img class="imgLogo" src="../logos/lib.png"> </td><td>x</td><td> <img class="imgLogo" src="../logos/red.png"> </td>
+            </tr>
+
+            <tr>
+                <td> <img class="imgLogo" src="../logos/rng.png"> </td><td>x</td><td> <img class="imgLogo" src="../logos/kbm.png"> </td>
+            </tr>           
+        </table>
+
+            <br><br><br>
+    `
+}
+
 function jogo11()
 {
     let a = window.document.getElementById("res")
@@ -18,15 +54,15 @@ function jogo11()
             </tr>
 
             <tr>
-                <td> <img class="imgLogo" src="../logos/rng.png"> </td><td>x</td><td> <img class="imgLogo" src="../logos/lib.png"> </td>
+                <td> <img class="imgLogo" src="../logos/rng.png"> </td><td>1 - 0</td><td> <img class="imgLogo" src="../logos/lib.png"> </td>
             </tr>
 
             <tr>
-                <td> <img class="imgLogo" src="../logos/kbm.png"> </td><td>x</td><td> <img class="imgLogo" src="../logos/png.png"> </td>
+                <td> <img class="imgLogo" src="../logos/kbm.png"> </td><td>0 - 1</td><td> <img class="imgLogo" src="../logos/png.png"> </td>
             </tr>
 
             <tr>
-                <td> <img class="imgLogo" src="../logos/net.png"> </td><td>x</td><td> <img class="imgLogo" src="../logos/itz.png"> </td>
+                <td> <img class="imgLogo" src="../logos/net.png"> </td><td>1 - 0</td><td> <img class="imgLogo" src="../logos/itz.png"> </td>
             </tr>           
         </table>
 
