@@ -19,43 +19,43 @@ function cblol()
 
 
             	<tr>
-                    <td> <h1>1</h1> </td> <td> <img class="imgLogo1" src="../logos/fur.png"> </td> <td>8v - 3d</td>
+                    <td> <h1>1</h1> </td> <td> <img class="imgLogo1" src="../logos/fur.png"> </td> <td>9v - 3d</td>
                 </tr>
 
                 <tr>
-                    <td> <h1>1</h1> </td> <td> <img class="imgLogo1" src="../logos/red.png"> </td> <td>8v - 3d</td>
+                    <td> <h1>1</h1> </td> <td> <img class="imgLogo1" src="../logos/red.png"> </td> <td>9v - 3d</td>
                 </tr>
 
                 <tr>
-                    <td> <h1>3</h1> </td> <td> <img class="imgLogo1" src="../logos/lll.png"> </td> <td>7v - 4d</td>
+                    <td> <h1>3</h1> </td> <td> <img class="imgLogo1" src="../logos/kbm.png"> </td> <td>8v - 4d</td>
                 </tr>
 
                 <tr>
-                    <td> <h1>3</h1> </td> <td> <img class="imgLogo1" src="../logos/kbm.png"> </td> <td>7v - 4d</td>
+                    <td> <h1>3</h1> </td> <td> <img class="imgLogo1" src="../logos/lll.png"> </td> <td>7v - 5d</td>
                 </tr>
 
                 <tr>
-                    <td> <h1>3</h1> </td> <td> <img class="imgLogo1" src="../logos/lib.png"> </td> <td>7v - 4d</td>
+                    <td> <h1>3</h1> </td> <td> <img class="imgLogo1" src="../logos/lib.png"> </td> <td>7v - 5d</td>
                 </tr>
 
             	<tr>
-            		<td> <h1>6</h1> </td> <td> <img class="imgLogo1" src="../logos/net.png"> </td> <td>6v - 5d</td>
+            		<td> <h1>6</h1> </td> <td> <img class="imgLogo1" src="../logos/net.png"> </td> <td>6v - 6d</td>
             	</tr>
 
                 <tr>
-            		<td> <h1>7</h1> </td> <td> <img class="imgLogo1" src="../logos/png.png"> </td> <td>4v - 7d</td>
+            		<td> <h1>7</h1> </td> <td> <img class="imgLogo1" src="../logos/png.png"> </td> <td>5v - 7d</td>
             	</tr>
 
                 <tr>
-                    <td> <h1>8</h1> </td> <td> <img class="imgLogo1" src="../logos/rng.png"> </td> <td>3v - 8d</td>
+                    <td> <h1>8</h1> </td> <td> <img class="imgLogo1" src="../logos/fla.png"> </td> <td>3v - 9d</td>
                 </tr>
 
 				<tr>
-                    <td> <h1>8</h1> </td> <td> <img class="imgLogo1" src="../logos/itz.png"> </td> <td>3v - 8d</td>
+                    <td> <h1>8</h1> </td> <td> <img class="imgLogo1" src="../logos/rng.png"> </td> <td>3v - 9d</td>
                 </tr>
 
                 <tr>
-                    <td> <h1>10</h1> </td> <td> <img class="imgLogo1" src="../logos/fla.png"> </td> <td>2v - 9d</td>
+                    <td> <h1>10</h1> </td> <td> <img class="imgLogo1" src="../logos/itz.png"> </td> <td>3v - 9d</td>
                 </tr>
 
 
