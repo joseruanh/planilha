@@ -1,6 +1,122 @@
+function planilha14()
+{
+    let pickles = {pt1: 'LLL', pt2: 'PNG', pt3: 'RED', pt4: 'KBM', pt5: 'FUR', pontos:'4 pontos'};
+    let ruanh = {pt1: 'LLL', pt2: 'PNG', pt3: 'RED', pt4: 'KBM', pt5: 'FUR', pontos:'4 pontos'};
+    let relampago = {pt1: 'LLL', pt2: 'PNG', pt3: 'RED', pt4: 'KBM', pt5: 'FUR', pontos:'4 pontos'};
+    let victor = {pt1: 'LLL', pt2: 'PNG', pt3: 'RED', pt4: 'KBM', pt5: 'FUR', pontos:'4 pontos'};
+    let jean = {pt1: 'LLL', pt2: 'PNG', pt3: 'RED', pt4: 'KBM', pt5: 'FUR', pontos:'4 pontos'};
+    let brener = {pt1: 'LLL', pt2: 'PNG', pt3: 'NET', pt4: 'KBM', pt5: 'FUR', pontos:'3 pontos'};
+    let tony = {pt1: 'NA', pt2: 'NA', pt3: 'NA', pt4: 'NA', pt5: 'NA', pontos:'0 pontos'};
+    let kennyd = {pt1: 'NA', pt2: 'NA', pt3: 'NA', pt4: 'NA', pt5: 'NA', pontos:'0 pontos'};
+
+
+    let a = window.document.getElementById("res")
+    a.innerHTML = `
+    <br>
+    <p><strong>RODADA 14</strong></p>
+            <br>
+
+            <table id="planilha">
+            <tr>
+                <td class="nomes"> <strong> Pickles </strong> <td id="win">${pickles.pt1}</td> <td id="win">${pickles.pt2}</td> <td id="win">${pickles.pt3}</td> <td id="win">${pickles.pt4}</td> <td id="loss">${pickles.pt5}</td> <td class="nomes"> <strong> ${pickles.pontos} </strong> </td>
+            </tr>
+
+            <tr>
+                <td class="nomes"> <strong> Ruanh </strong> <td id="win">${ruanh.pt1}</td> <td id="win">${ruanh.pt2}</td> <td id="win">${ruanh.pt3}</td> <td id="win">${ruanh.pt4}</td> <td id="loss">${ruanh.pt5}</td> <td class="nomes"> <strong> ${ruanh.pontos} </strong> </td>
+            </tr>
+
+            <tr>
+                <td class="nomes"> <strong> Relâmpago </strong> <td id="win">${relampago.pt1}</td> <td id="win">${relampago.pt2}</td> <td id="win">${relampago.pt3}</td> <td id="win">${relampago.pt4}</td> <td id="loss">${relampago.pt5}</td> <td class="nomes"> <strong> ${relampago.pontos} </strong> </td>
+            </tr>
+
+            <tr>
+                <td class="nomes"> <strong> Victor </strong> <td id="win">${victor.pt1}</td> <td id="win">${victor.pt2}</td> <td id="win">${victor.pt3}</td> <td id="win">${victor.pt4}</td> <td id="loss">${victor.pt5}</td> <td class="nomes"> <strong> ${victor.pontos} </strong> </td>
+            </tr>
+
+            <tr>
+                <td class="nomes"> <strong> Jean </strong> <td id="win">${jean.pt1}</td> <td id="win">${jean.pt2}</td> <td id="win">${jean.pt3}</td> <td id="win">${jean.pt4}</td> <td id="loss">${jean.pt5}</td> <td class="nomes"> <strong> ${jean.pontos} </strong> </td>
+            </tr>
+
+            <tr>
+                <td class="nomes"> <strong> Brener </strong> <td id="win">${brener.pt1}</td> <td id="win">${brener.pt2}</td> <td id="loss">${brener.pt3}</td> <td id="win">${brener.pt4}</td> <td id="loss">${brener.pt5}</td> <td class="nomes"> <strong> ${brener.pontos} </strong> </td>
+            </tr>
+
+            <tr>
+                <td class="nomes"> <strong> Tony </strong> <td id="loss">${tony.pt1}</td> <td id="loss">${tony.pt2}</td> <td id="loss">${tony.pt3}</td> <td id="loss">${tony.pt4}</td> <td id="loss">${tony.pt5}</td> <td class="nomes"> <strong> ${tony.pontos} </strong> </td>
+            </tr>
+
+            <tr>
+                <td class="nomes"> <strong> Kennyd </strong> <td id="loss">${kennyd.pt1}</td> <td id="loss">${kennyd.pt2}</td> <td id="loss">${kennyd.pt3}</td> <td id="loss">${kennyd.pt4}</td> <td id="loss">${kennyd.pt5}</td> <td class="nomes"> <strong> ${kennyd.pontos} </strong> </td>
+            </tr>
+
+            
+        </table>
+
+        <br><br><br>
+    `
+}
+
+function planilha13()
+{
+    let pickles = {pt1: 'FUR', pt2: 'LLL', pt3: 'FLA', pt4: 'NET', pt5: 'RED', pontos:'4 pontos'};
+    let ruanh = {pt1: 'FUR', pt2: 'LLL', pt3: 'FLA', pt4: 'NET', pt5: 'RED', pontos:'4 pontos'};
+    let relampago = {pt1: 'FUR', pt2: 'LLL', pt3: 'ITZ', pt4: 'NET', pt5: 'RED', pontos:'3 pontos'};
+    let victor = {pt1: 'FUR', pt2: 'LIB', pt3: 'ITZ', pt4: 'NET', pt5: 'KBM', pontos:'3 pontos'};
+    let jean = {pt1: 'FUR', pt2: 'LLL', pt3: 'ITZ', pt4: 'NET', pt5: 'KBM', pontos:'4 pontos'};
+    let brener = {pt1: 'FUR', pt2: 'LLL', pt3: 'FLA', pt4: 'NET', pt5: 'KBM', pontos:'5 pontos'};
+    let tony = {pt1: 'NA', pt2: 'NA', pt3: 'NA', pt4: 'NA', pt5: 'NA', pontos:'0 pontos'};
+    let kennyd = {pt1: 'FUR', pt2: 'LLL', pt3: 'FLA', pt4: 'NET', pt5: 'RED', pontos:'4 pontos'};
+
+
+    let a = window.document.getElementById("res")
+    a.innerHTML = `
+    <br>
+    <p><strong>RODADA 13</strong></p>
+            <br>
+
+            <table id="planilha">
+            <tr>
+                <td class="nomes"> <strong> Pickles </strong> <td id="win">${pickles.pt1}</td> <td id="win">${pickles.pt2}</td> <td id="win">${pickles.pt3}</td> <td id="win">${pickles.pt4}</td> <td>${pickles.pt5}</td> <td class="nomes"> <strong> ${pickles.pontos} </strong> </td>
+            </tr>
+
+            <tr>
+                <td class="nomes"> <strong> Ruanh </strong> <td id="win">${ruanh.pt1}</td> <td id="win">${ruanh.pt2}</td> <td id="win">${ruanh.pt3}</td> <td id="win">${ruanh.pt4}</td> <td>${ruanh.pt5}</td> <td class="nomes"> <strong> ${ruanh.pontos} </strong> </td>
+            </tr>
+
+            <tr>
+                <td class="nomes"> <strong> Relâmpago </strong> <td id="win">${relampago.pt1}</td> <td id="win">${relampago.pt2}</td> <td id="loss">${relampago.pt3}</td> <td id="win">${relampago.pt4}</td> <td>${relampago.pt5}</td> <td class="nomes"> <strong> ${relampago.pontos} </strong> </td>
+            </tr>
+
+            <tr>
+                <td class="nomes"> <strong> Victor </strong> <td id="win">${victor.pt1}</td> <td id="loss">${victor.pt2}</td> <td id="loss">${victor.pt3}</td> <td id="win">${victor.pt4}</td> <td>${victor.pt5}</td> <td class="nomes"> <strong> ${victor.pontos} </strong> </td>
+            </tr>
+
+            <tr>
+                <td class="nomes"> <strong> Jean </strong> <td id="win">${jean.pt1}</td> <td id="loss">${jean.pt2}</td> <td id="loss">${jean.pt3}</td> <td id="win">${jean.pt4}</td> <td>${jean.pt5}</td> <td class="nomes"> <strong> ${jean.pontos} </strong> </td>
+            </tr>
+
+            <tr>
+                <td class="nomes"> <strong> Brener </strong> <td id="win">${brener.pt1}</td> <td id="win">${brener.pt2}</td> <td id="win">${brener.pt3}</td> <td id="win">${brener.pt4}</td> <td>${brener.pt5}</td> <td class="nomes"> <strong> ${brener.pontos} </strong> </td>
+            </tr>
+
+            <tr>
+                <td class="nomes"> <strong> Tony </strong> <td id="loss">${tony.pt1}</td> <td id="loss">${tony.pt2}</td> <td id="loss">${tony.pt3}</td> <td id="loss">${tony.pt4}</td> <td>${tony.pt5}</td> <td class="nomes"> <strong> ${tony.pontos} </strong> </td>
+            </tr>
+
+            <tr>
+                <td class="nomes"> <strong> Kennyd </strong> <td id="win">${kennyd.pt1}</td> <td id="win">${kennyd.pt2}</td> <td id="win">${kennyd.pt3}</td> <td id="win">${kennyd.pt4}</td> <td>${kennyd.pt5}</td> <td class="nomes"> <strong> ${kennyd.pontos} </strong> </td>
+            </tr>
+
+            
+        </table>
+
+        <br><br><br>
+    `
+}
+
 function planilha12()
 {
-    let pickles = {pt1: 'NA', pt2: 'NA', pt3: 'NET', pt4: 'RED', pt5: 'KBM', pontos:'2 pontos'};
+    let pickles = {pt1: 'FLA', pt2: 'FUR', pt3: 'NET', pt4: 'RED', pt5: 'KBM', pontos:'4 pontos'};
     let ruanh = {pt1: 'LLL', pt2: 'FUR', pt3: 'PNG', pt4: 'RED', pt5: 'KBM', pontos:'4 pontos'};
     let relampago = {pt1: 'LLL', pt2: 'FUR', pt3: 'PNG', pt4: 'RED', pt5: 'KBM', pontos:'4 pontos'};
     let victor = {pt1: 'NA', pt2: 'NA', pt3: 'NA', pt4: 'NA', pt5: 'NA', pontos:'0 pontos'};
@@ -13,12 +129,12 @@ function planilha12()
     let a = window.document.getElementById("res")
     a.innerHTML = `
     <br>
-    <p><strong>RODADA 8</strong></p>
+    <p><strong>RODADA 12</strong></p>
             <br>
 
             <table id="planilha">
             <tr>
-                <td class="nomes"> <strong> Pickles </strong> <td id="loss">${pickles.pt1}</td> <td id="loss">${pickles.pt2}</td> <td id="loss">${pickles.pt3}</td> <td id="win">${pickles.pt4}</td> <td id="win">${pickles.pt5}</td> <td class="nomes"> <strong> ${pickles.pontos} </strong> </td>
+                <td class="nomes"> <strong> Pickles </strong> <td id="win">${pickles.pt1}</td> <td id="win">${pickles.pt2}</td> <td id="loss">${pickles.pt3}</td> <td id="win">${pickles.pt4}</td> <td id="win">${pickles.pt5}</td> <td class="nomes"> <strong> ${pickles.pontos} </strong> </td>
             </tr>
 
             <tr>
