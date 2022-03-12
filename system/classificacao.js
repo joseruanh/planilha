@@ -1,8 +1,8 @@
-var primeiro = {nome: 'Jean', pontos: 51, posicao: 1};
+var primeiro = {nome: 'Jean', pontos: 52, posicao: 1};
 var segundo = {nome: 'Relâmpago', pontos: 50, posicao: 2};
 var terceiro = {nome: 'Pickles', pontos: 50, posicao: 2};
 var quarto = {nome:'Ruanh', pontos: 48, posicao: 3};
-var quinto = {nome: 'Brener', pontos: 46, posicao: 4};
+var quinto = {nome: 'Brener', pontos: 47, posicao: 4};
 var sexto = {nome: 'Kennyd', pontos: 40, posicao: 5};
 var setimo = {nome: 'Victor', pontos: 39, posicao: 6};
 
@@ -18,15 +18,15 @@ function cblol()
 
 
             	<tr>
-                    <td> <h1>1</h1> </td> <td> <img class="imgLogo1" src="../logos/fur.png"> </td> <td>10v - 4d</td>
+                    <td> <h1>1</h1> </td> <td> <img class="imgLogo1" src="../logos/kbm.png"> </td> <td>11v - 4d</td>
                 </tr>
 
                 <tr>
-                    <td> <h1>1</h1> </td> <td> <img class="imgLogo1" src="../logos/kbm.png"> </td> <td>10v - 4d</td>
+                    <td> <h1>2</h1> </td> <td> <img class="imgLogo1" src="../logos/red.png"> </td> <td>10v - 4d</td>
                 </tr>
 
                 <tr>
-                    <td> <h1>1</h1> </td> <td> <img class="imgLogo1" src="../logos/red.png"> </td> <td>10v - 4d</td>
+                    <td> <h1>3</h1> </td> <td> <img class="imgLogo1" src="../logos/fur.png"> </td> <td>10v - 5d</td>
                 </tr>
 
                 <tr>
