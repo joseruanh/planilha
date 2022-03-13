@@ -1,3 +1,39 @@
+function jogo16()
+{
+    let a = window.document.getElementById("res")
+
+    a.innerHTML = `
+    <br>
+    <p><strong>Rodada 16</strong></p>
+            <p class="pData">13/03</p>
+    <br>
+    
+    <table id="tbRodada1" class="resultados">
+            <tr>
+                <td> <img class="imgLogo" src="../logos/kbm.png"> </td><td>X</td><td> <img class="imgLogo" src="../logos/net.png"> </td>
+            </tr>
+
+            <tr>
+                <td> <img class="imgLogo" src="../logos/rng.png"> </td><td>X</td><td> <img class="imgLogo" src="../logos/itz.png"> </td>
+            </tr>
+
+            <tr>
+                <td> <img class="imgLogo" src="../logos/red.png"> </td><td>X</td><td> <img class="imgLogo" src="../logos/fla.png"> </td>
+            </tr>
+
+            <tr>
+                <td> <img class="imgLogo" src="../logos/png.png"> </td><td>X</td><td> <img class="imgLogo" src="../logos/lll.png"> </td>
+            </tr>
+
+            <tr>
+                <td> <img class="imgLogo" src="../logos/lib.png"> </td><td>X</td><td> <img class="imgLogo" src="../logos/fur.png"> </td>
+            </tr>           
+        </table>
+
+            <br><br><br>
+    `
+}
+
 function jogo15()
 {
     let a = window.document.getElementById("res")
