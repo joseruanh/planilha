@@ -1,6 +1,6 @@
-var primeiro = {nome: 'Jean', pontos: 55, posicao: 1};
-var segundo = {nome: 'Relâmpago', pontos: 53, posicao: 2};
-var terceiro = {nome: 'Pickles', pontos: 53, posicao: 2};
+var primeiro = {nome: 'Jean', pontos: 56, posicao: 1};
+var segundo = {nome: 'Pickles', pontos: 54, posicao: 2};
+var terceiro = {nome: 'Relâmpago', pontos: 53, posicao: 2};
 var quarto = {nome:'Ruanh', pontos: 51, posicao: 3};
 var quinto = {nome: 'Brener', pontos: 51, posicao: 3};
 var sexto = {nome: 'Kennyd', pontos: 41, posicao: 5};

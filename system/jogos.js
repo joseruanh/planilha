@@ -18,11 +18,11 @@ function jogo16()
             </tr>
 
             <tr>
-                <td> <img class="imgLogo" src="../logos/red.png"> </td><td>X</td><td> <img class="imgLogo" src="../logos/fla.png"> </td>
+                <td> <img class="imgLogo" src="../logos/red.png"> </td><td>0 - 1</td><td> <img class="imgLogo" src="../logos/fla.png"> </td>
             </tr>
 
             <tr>
-                <td> <img class="imgLogo" src="../logos/png.png"> </td><td>X</td><td> <img class="imgLogo" src="../logos/lll.png"> </td>
+                <td> <img class="imgLogo" src="../logos/png.png"> </td><td>1 - 0</td><td> <img class="imgLogo" src="../logos/lll.png"> </td>
             </tr>
 
             <tr>
