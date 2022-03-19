@@ -5,7 +5,7 @@ var quarto = {nome:'Ruanh', pontos: 51, posicao: 3};
 var quinto = {nome: 'Brener', pontos: 51, posicao: 3};
 var sexto = {nome: 'Kennyd', pontos: 41, posicao: 5};
 var setimo = {nome: 'Victor', pontos: 39, posicao: 6};
-
+var oitavo = {nome: 'Vitor', pontos: 0, posicao: 7};
 
 function cblol()
 {
@@ -99,6 +99,9 @@ function bolao()
 			<tr>
 				<td><h1>${setimo.posicao}</h1></td> <td>${setimo.nome}</td> <td>${setimo.pontos} pontos</td>
 			</tr>
+            <tr>
+                <td><h1>${oitavo.posicao}</h1></td> <td>${oitavo.nome}</td> <td>${oitavo.pontos} pontos</td>
+            </tr>
 		</table>
 
 		<br><br><br>

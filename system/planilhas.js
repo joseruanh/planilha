@@ -7,6 +7,7 @@ function planilha17()
     let jean = {pt1: 'PNG', pt2: 'KBM', pt3: 'LIB', pt4: 'RED', pt5: 'LLL', pontos:'0 pontos'};
     let brener = {pt1: 'RNG', pt2: 'KBM', pt3: 'LIB', pt4: 'RED', pt5: 'LLL', pontos:'0 pontos'};
     let kennyd = {pt1: 'PNG', pt2: 'FUR', pt3: 'LIB', pt4: 'RED', pt5: 'LLL', pontos:'0 pontos'};
+    let vitor = {pt1: 'PNG', pt2: 'FUR', pt3: 'LIB', pt4: 'RED', pt5: 'LLL', pontos:'0 pontos'};
 
 
     let a = window.document.getElementById("res")
@@ -42,6 +43,10 @@ function planilha17()
 
             <tr>
                 <td class="nomes"> <strong> Kennyd </strong> <td>${kennyd.pt1}</td> <td>${kennyd.pt2}</td> <td>${kennyd.pt3}</td> <td>${kennyd.pt4}</td> <td>${kennyd.pt5}</td> <td class="nomes"> <strong> ${kennyd.pontos} </strong> </td>
+            </tr>
+
+            <tr>
+                <td class="nomes"> <strong> Vitor </strong> <td>${vitor.pt1}</td> <td>${vitor.pt2}</td> <td>${vitor.pt3}</td> <td>${vitor.pt4}</td> <td>${vitor.pt5}</td> <td class="nomes"> <strong> ${vitor.pontos} </strong> </td>
             </tr>
 
             
