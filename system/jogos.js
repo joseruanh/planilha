@@ -10,7 +10,7 @@ function jogo17()
     
     <table id="tbRodada1" class="resultados">
             <tr>
-                <td> <img class="imgLogo" src="../logos/png.png"> </td><td>X</td><td> <img class="imgLogo" src="../logos/rng.png"> </td>
+                <td> <img class="imgLogo" src="../logos/png.png"> </td><td>1 - 0</td><td> <img class="imgLogo" src="../logos/rng.png"> </td>
             </tr>
 
             <tr>
